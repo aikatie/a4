@@ -1,0 +1,21 @@
+Script started on Mon Dec  2 21:04:47 2024
+]0;edmarp@:~/asignment4[?1034h[edmarp@r2v00 asignment4]$ srun ./fractal_cuda 2560 1440 10
+Fractal v1.6 [CUDA]
+Computing 10 frames of 2560 by 1440 fractal
+CUDA compute time: 0.0201 s
+]0;edmarp@:~/asignment4[edmarp@r2v00 asignment4]$ srun ./fractal_cuda 2560 1440 10  305~                                  srun ./fractal_cuda 2560 1440 40
+Fractal v1.6 [CUDA]
+Computing 40 frames of 2560 by 1440 fractal
+CUDA compute time: 0.0736 s
+]0;edmarp@:~/asignment4[edmarp@r2v00 asignment4]$ srun ./fractal_cuda 2560 1440 30
+Fractal v1.6 [CUDA]
+Computing 30 frames of 2560 by 1440 fractal
+CUDA compute time: 0.0563 s
+]0;edmarp@:~/asignment4[edmarp@r2v00 asignment4]$ srun ./fractal_cuda 4096 2160 60
+Fractal v1.6 [CUDA]
+Computing 60 frames of 4096 by 2160 fractal
+CUDA compute time: 0.2480 s
+]0;edmarp@:~/asignment4[edmarp@r2v00 asignment4]$ exit
+exit
+
+Script done on Mon Dec  2 21:25:37 2024

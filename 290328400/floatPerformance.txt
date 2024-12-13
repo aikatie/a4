@@ -1,0 +1,4 @@
+I believe that the reason that the float version of the code is slightly faster than the double version of the same program is because of the size of each type. 
+A float is 4 bytes and a double is 8 bytes in size, the float being smaller than than the double means that more floats can be stored in registers and faster portions of memory than doubles can.
+Additionally, the smaller size of floats means that floats can be read and written to memory faster than doubles can over the same bandwidth along with taking less time to do computation with compared to doubles
+(as less bytes means faster calculations and thus higher throughput). With these improvements combined together, it leads to a minor but consistent performance improvement over using doubles.

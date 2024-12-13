@@ -1,0 +1,45 @@
+Script started on Mon Dec  2 13:12:51 2024
+[kareenak@r2v01 ~]$ srun fractal_cuda 320 200 10 256
+Fractal v1.6 [CUDA]
+Computing 10 frames of 320 by 200 fractal
+CUDA compute time: 0.0010 s
+[kareenak@r2v01 ~]$ srun fractal_cuda 640 400 32 256
+Fractal v1.6 [CUDA]
+Computing 32 frames of 640 by 400 fractal
+CUDA compute time: 0.0078 s
+[kareenak@r2v01 ~]$ srun fractal_cuda 640 400 64 256
+Fractal v1.6 [CUDA]
+Computing 64 frames of 640 by 400 fractal
+CUDA compute time: 0.0142 s
+[kareenak@r2v01 ~]$ srun fractal_cuda 1024 768 32 256
+Fractal v1.6 [CUDA]
+Computing 32 frames of 1024 by 768 fractal
+CUDA compute time: 0.0214 s
+[kareenak@r2v01 ~]$ srun fractal_cuda 1024 768 64 256
+Fractal v1.6 [CUDA]
+Computing 64 frames of 1024 by 768 fractal
+CUDA compute time: 0.0405 s
+[kareenak@r2v01 ~]$ srun fractal_cuda 320 200 32 256
+Fractal v1.6 [CUDA]
+Computing 32 frames of 320 by 200 fractal
+CUDA compute time: 0.0026 s
+[kareenak@r2v01 ~]$ srun fractal_cuda 320 200 64 256
+Fractal v1.6 [CUDA]
+Computing 64 frames of 320 by 200 fractal
+CUDA compute time: 0.0043 s
+[kareenak@r2v01 ~]$ srun fractal_cuda 1280 720 32 256
+Fractal v1.6 [CUDA]
+Computing 32 frames of 1280 by 720 fractal
+CUDA compute time: 0.0248 s
+[kareenak@r2v01 ~]$ srun fractal_cuda 4096 2160 32 256
+Fractal v1.6 [CUDA]
+Computing 32 frames of 4096 by 2160 fractal
+CUDA compute time: 0.2244 s
+[kareenak@r2v01 ~]$ srun fractal_cuda 4096 2160 64 256
+Fractal v1.6 [CUDA]
+Computing 64 frames of 4096 by 2160 fractal
+CUDA compute time: 0.4356 s
+[kareenak@r2v01 ~]$ exit
+exit
+
+Script done on Mon Dec  2 13:15:35 2024

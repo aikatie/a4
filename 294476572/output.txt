@@ -1,0 +1,9 @@
+Script started on Fri Nov  8 15:03:06 2024
+srun ./fractal_cuda 320 200 10
+]0;roryj@r1n05.darwin:~[?1034h[roryj@r1n05 ~]$ srun ./fractal_cuda 320 200 10
+Computing 64 frames of 1024 by 768 fractal
+Parallel compute time: 0.9660 s
+]0;roryj@r1n05.darwin:~[roryj@r1n05 ~]$ exit
+exit
+
+Script done on Mon Dec  2 19:08:56 2024

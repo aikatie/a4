@@ -1,0 +1,55 @@
+Fractal v1.6 [CUDA - Optimized]
+Using CUDA Device: Tesla V100-SXM2-32GB with 80 multiprocessors
+Computing 32 frames of 400 by 640 fractal
+Total computation took 5.284864 milliseconds
+Fractal computation completed.
+Fractal v1.6 [CUDA - Optimized]
+Using CUDA Device: Tesla V100-SXM2-32GB with 80 multiprocessors
+Computing 10 frames of 480 by 320 fractal
+Total computation took 1.501184 milliseconds
+Fractal computation completed.
+Fractal v1.6 [CUDA - Optimized]
+Using CUDA Device: Tesla V100-SXM2-32GB with 80 multiprocessors
+Computing 10 frames of 480 by 640 fractal
+Total computation took 2.165760 milliseconds
+Fractal computation completed.
+Fractal v1.6 [CUDA - Optimized]
+Using CUDA Device: Tesla V100-SXM2-32GB with 80 multiprocessors
+Computing 20 frames of 640 by 640 fractal
+Total computation took 5.068800 milliseconds
+Fractal computation completed.
+Fractal v1.6 [CUDA - Optimized]
+Using CUDA Device: Tesla V100-SXM2-32GB with 80 multiprocessors
+Computing 20 frames of 768 by 1024 fractal
+Total computation took 8.261632 milliseconds
+Fractal computation completed.
+Fractal v1.6 [CUDA - Optimized]
+Using CUDA Device: Tesla V100-SXM2-32GB with 80 multiprocessors
+Computing 30 frames of 1024 by 1024 fractal
+Total computation took 16.155647 milliseconds
+Fractal computation completed.
+Fractal v1.6 [CUDA - Optimized]
+Using CUDA Device: Tesla V100-SXM2-32GB with 80 multiprocessors
+Computing 30 frames of 720 by 1280 fractal
+Total computation took 13.261824 milliseconds
+Fractal computation completed.
+Fractal v1.6 [CUDA - Optimized]
+Using CUDA Device: Tesla V100-SXM2-32GB with 80 multiprocessors
+Computing 40 frames of 1080 by 2048 fractal
+Total computation took 39.223297 milliseconds
+Fractal computation completed.
+Fractal v1.6 [CUDA - Optimized]
+Using CUDA Device: Tesla V100-SXM2-32GB with 80 multiprocessors
+Computing 50 frames of 2048 by 2048 fractal
+Total computation took 94.417923 milliseconds
+Fractal computation completed.
+Fractal v1.6 [CUDA - Optimized]
+Using CUDA Device: Tesla V100-SXM2-32GB with 80 multiprocessors
+Computing 50 frames of 2160 by 4096 fractal
+Total computation took 180.960251 milliseconds
+Fractal computation completed.
+Fractal v1.6 [CUDA - Optimized]
+Using CUDA Device: Tesla V100-SXM2-32GB with 80 multiprocessors
+Computing 60 frames of 4096 by 4096 fractal
+Total computation took 401.425415 milliseconds
+Fractal computation completed.

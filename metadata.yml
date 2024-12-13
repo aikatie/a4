@@ -1,0 +1,1625 @@
+---
+submission_294034993:
+  :submitters:
+  - :name: Rasib Zaman
+    :sid: '702634232'
+    :email: rzaman@udel.edu
+  :created_at: 2024-12-03 04:21:19.306304000 Z
+  :score: 0.0
+  :status: processed
+  :results:
+    score: 0.0
+    tests: []
+    output: This assignment does not have an autograder configured.
+    extra_data: 
+    visibility: 
+    leaderboard: []
+    output_format: 
+    execution_time: 
+    test_name_format: 
+    test_output_format: 
+  :history: []
+submission_296127679:
+  :submitters:
+  - :name: Joshua Washington
+    :sid: '702645677'
+    :email: joshwash@udel.edu
+  :created_at: 2024-12-10 02:20:29.822419000 Z
+  :score: 0.0
+  :status: processed
+  :results:
+    score: 0.0
+    tests: []
+    output: This assignment does not have an autograder configured.
+    extra_data: 
+    visibility: 
+    leaderboard: []
+    output_format: 
+    execution_time: 
+    test_name_format: 
+    test_output_format: 
+  :history: []
+submission_294005002:
+  :submitters:
+  - :name: Amer Syed
+    :sid: '702763285'
+    :email: ajaffery@udel.edu
+  :created_at: 2024-12-03 02:55:01.020927000 Z
+  :score: 0.0
+  :status: processed
+  :results:
+    score: 0.0
+    tests: []
+    output: This assignment does not have an autograder configured.
+    extra_data: 
+    visibility: 
+    leaderboard: []
+    output_format: 
+    execution_time: 
+    test_name_format: 
+    test_output_format: 
+  :history:
+  - :submitters: []
+    :created_at: 2024-12-03 02:51:21.370047000 Z
+    :score: 0.0
+    :status: processed
+    :results:
+      score: 0.0
+      tests: []
+      output: This assignment does not have an autograder configured.
+      extra_data: 
+      visibility: 
+      leaderboard: []
+      output_format: 
+      execution_time: 
+      test_name_format: 
+      test_output_format: 
+    :id: 294003710
+submission_294841419:
+  :submitters:
+  - :name: Makayla Pham
+    :sid: '702585505'
+    :email: makpham@udel.edu
+  :created_at: 2024-12-05 18:14:15.298671000 Z
+  :score: 0.0
+  :status: processed
+  :results:
+    score: 0.0
+    tests: []
+    output: This assignment does not have an autograder configured.
+    extra_data: 
+    visibility: 
+    leaderboard: []
+    output_format: 
+    execution_time: 
+    test_name_format: 
+    test_output_format: 
+  :history:
+  - :submitters: []
+    :created_at: 2024-12-03 04:59:29.439137000 Z
+    :score: 0.0
+    :status: processed
+    :results:
+      score: 0.0
+      tests: []
+      output: This assignment does not have an autograder configured.
+      extra_data: 
+      visibility: 
+      leaderboard: []
+      output_format: 
+      execution_time: 
+      test_name_format: 
+      test_output_format: 
+    :id: 294050003
+  - :submitters: []
+    :created_at: 2024-12-05 02:13:08.749792000 Z
+    :score: 0.0
+    :status: processed
+    :results:
+      score: 0.0
+      tests: []
+      output: This assignment does not have an autograder configured.
+      extra_data: 
+      visibility: 
+      leaderboard: []
+      output_format: 
+      execution_time: 
+      test_name_format: 
+      test_output_format: 
+    :id: 294661763
+  - :submitters: []
+    :created_at: 2024-12-05 18:07:16.115354000 Z
+    :score: 0.0
+    :status: processed
+    :results:
+      score: 0.0
+      tests: []
+      output: This assignment does not have an autograder configured.
+      extra_data: 
+      visibility: 
+      leaderboard: []
+      output_format: 
+      execution_time: 
+      test_name_format: 
+      test_output_format: 
+    :id: 294838821
+submission_295072433:
+  :submitters:
+  - :name: Gabriel Simpson
+    :sid: '702638564'
+    :email: simpsong@udel.edu
+  :created_at: 2024-12-06 04:59:06.830159000 Z
+  :score: 0.0
+  :status: processed
+  :results:
+    score: 0.0
+    tests: []
+    output: This assignment does not have an autograder configured.
+    extra_data: 
+    visibility: 
+    leaderboard: []
+    output_format: 
+    execution_time: 
+    test_name_format: 
+    test_output_format: 
+  :history: []
+submission_293840099:
+  :submitters:
+  - :name: Kareena Keswani
+    :sid: '702605110'
+    :email: kareenak@udel.edu
+  :created_at: 2024-12-02 18:24:22.093826000 Z
+  :score: 0.0
+  :status: processed
+  :results:
+    score: 0.0
+    tests: []
+    output: This assignment does not have an autograder configured.
+    extra_data: 
+    visibility: 
+    leaderboard: []
+    output_format: 
+    execution_time: 
+    test_name_format: 
+    test_output_format: 
+  :history:
+  - :submitters: []
+    :created_at: 2024-12-02 18:22:51.767250000 Z
+    :score: 0.0
+    :status: processed
+    :results:
+      score: 0.0
+      tests: []
+      output: This assignment does not have an autograder configured.
+      extra_data: 
+      visibility: 
+      leaderboard: []
+      output_format: 
+      execution_time: 
+      test_name_format: 
+      test_output_format: 
+    :id: 293839732
+submission_295376012:
+  :submitters:
+  - :name: Colin Barry
+    :sid: '702645537'
+    :email: rabcol@udel.edu
+  :created_at: 2024-12-07 00:28:13.004424000 Z
+  :score: 0.0
+  :status: processed
+  :results:
+    score: 0.0
+    tests: []
+    output: This assignment does not have an autograder configured.
+    extra_data: 
+    visibility: 
+    leaderboard: []
+    output_format: 
+    execution_time: 
+    test_name_format: 
+    test_output_format: 
+  :history:
+  - :submitters: []
+    :created_at: 2024-12-06 02:34:41.497446000 Z
+    :score: 0.0
+    :status: processed
+    :results:
+      score: 0.0
+      tests: []
+      output: This assignment does not have an autograder configured.
+      extra_data: 
+      visibility: 
+      leaderboard: []
+      output_format: 
+      execution_time: 
+      test_name_format: 
+      test_output_format: 
+    :id: 295020551
+  - :submitters: []
+    :created_at: 2024-12-06 02:45:18.010606000 Z
+    :score: 0.0
+    :status: processed
+    :results:
+      score: 0.0
+      tests: []
+      output: This assignment does not have an autograder configured.
+      extra_data: 
+      visibility: 
+      leaderboard: []
+      output_format: 
+      execution_time: 
+      test_name_format: 
+      test_output_format: 
+    :id: 295024068
+submission_294042767:
+  :submitters:
+  - :name: Jonathan Ma
+    :sid: '702609724'
+    :email: johnma@udel.edu
+  :created_at: 2024-12-03 04:43:35.868665000 Z
+  :score: 0.0
+  :status: processed
+  :results:
+    score: 0.0
+    tests: []
+    output: This assignment does not have an autograder configured.
+    extra_data: 
+    visibility: 
+    leaderboard: []
+    output_format: 
+    execution_time: 
+    test_name_format: 
+    test_output_format: 
+  :history:
+  - :submitters: []
+    :created_at: 2024-12-03 04:40:09.506232000 Z
+    :score: 0.0
+    :status: processed
+    :results:
+      score: 0.0
+      tests: []
+      output: This assignment does not have an autograder configured.
+      extra_data: 
+      visibility: 
+      leaderboard: []
+      output_format: 
+      execution_time: 
+      test_name_format: 
+      test_output_format: 
+    :id: 294041604
+submission_294476572:
+  :submitters:
+  - :name: Rory Jordan
+    :sid: '702642677'
+    :email: roryj@udel.edu
+  :created_at: 2024-12-04 17:21:15.031484000 Z
+  :score: 0.0
+  :status: processed
+  :results:
+    score: 0.0
+    tests: []
+    output: This assignment does not have an autograder configured.
+    extra_data: 
+    visibility: 
+    leaderboard: []
+    output_format: 
+    execution_time: 
+    test_name_format: 
+    test_output_format: 
+  :history:
+  - :submitters: []
+    :created_at: 2024-12-04 17:18:32.530682000 Z
+    :score: 0.0
+    :status: processed
+    :results:
+      score: 0.0
+      tests: []
+      output: This assignment does not have an autograder configured.
+      extra_data: 
+      visibility: 
+      leaderboard: []
+      output_format: 
+      execution_time: 
+      test_name_format: 
+      test_output_format: 
+    :id: 294475681
+submission_294338103:
+  :submitters:
+  - :name: David Bui
+    :sid: '702598777'
+    :email: davbui@udel.edu
+  :created_at: 2024-12-04 03:23:26.117800000 Z
+  :score: 0.0
+  :status: processed
+  :results:
+    score: 0.0
+    tests: []
+    output: This assignment does not have an autograder configured.
+    extra_data: 
+    visibility: 
+    leaderboard: []
+    output_format: 
+    execution_time: 
+    test_name_format: 
+    test_output_format: 
+  :history: []
+submission_293974025:
+  :submitters:
+  - :name: Dustin Stark
+    :sid: '702600442'
+    :email: dstark@udel.edu
+  :created_at: 2024-12-03 01:20:12.527048000 Z
+  :score: 0.0
+  :status: processed
+  :results:
+    score: 0.0
+    tests: []
+    output: This assignment does not have an autograder configured.
+    extra_data: 
+    visibility: 
+    leaderboard: []
+    output_format: 
+    execution_time: 
+    test_name_format: 
+    test_output_format: 
+  :history: []
+submission_294868521:
+  :submitters:
+  - :name: Alexander Peluso
+    :sid: '702594934'
+    :email: apeluso@udel.edu
+  :created_at: 2024-12-05 19:31:31.641874000 Z
+  :score: 0.0
+  :status: processed
+  :results:
+    score: 0.0
+    tests: []
+    output: This assignment does not have an autograder configured.
+    extra_data: 
+    visibility: 
+    leaderboard: []
+    output_format: 
+    execution_time: 
+    test_name_format: 
+    test_output_format: 
+  :history: []
+submission_294043526:
+  :submitters:
+  - :name: Edmar Pelayo
+    :sid: '702647785'
+    :email: edmarp@udel.edu
+  :created_at: 2024-12-03 04:45:34.229041000 Z
+  :score: 0.0
+  :status: processed
+  :results:
+    score: 0.0
+    tests: []
+    output: This assignment does not have an autograder configured.
+    extra_data: 
+    visibility: 
+    leaderboard: []
+    output_format: 
+    execution_time: 
+    test_name_format: 
+    test_output_format: 
+  :history: []
+submission_293964443:
+  :submitters:
+  - :name: Nathan Rowell
+    :sid: '702604752'
+    :email: nrowell@udel.edu
+  :created_at: 2024-12-03 00:48:33.675997000 Z
+  :score: 0.0
+  :status: processed
+  :results:
+    score: 0.0
+    tests: []
+    output: This assignment does not have an autograder configured.
+    extra_data: 
+    visibility: 
+    leaderboard: []
+    output_format: 
+    execution_time: 
+    test_name_format: 
+    test_output_format: 
+  :history: []
+submission_294035395:
+  :submitters:
+  - :name: John Fulkerson
+    :sid: '702640947'
+    :email: jtfulky@udel.edu
+  :created_at: 2024-12-03 04:22:31.507106000 Z
+  :score: 0.0
+  :status: processed
+  :results:
+    score: 0.0
+    tests: []
+    output: This assignment does not have an autograder configured.
+    extra_data: 
+    visibility: 
+    leaderboard: []
+    output_format: 
+    execution_time: 
+    test_name_format: 
+    test_output_format: 
+  :history: []
+submission_294026758:
+  :submitters:
+  - :name: Alexander Clawson
+    :sid: '702632541'
+    :email: clawsonx@udel.edu
+  :created_at: 2024-12-03 03:59:48.337098000 Z
+  :score: 0.0
+  :status: processed
+  :results:
+    score: 0.0
+    tests: []
+    output: This assignment does not have an autograder configured.
+    extra_data: 
+    visibility: 
+    leaderboard: []
+    output_format: 
+    execution_time: 
+    test_name_format: 
+    test_output_format: 
+  :history: []
+submission_295065845:
+  :submitters:
+  - :name: Caleb Sachetti
+    :sid: '702611103'
+    :email: sxchetti@udel.edu
+  :created_at: 2024-12-06 04:43:49.380771000 Z
+  :score: 0.0
+  :status: processed
+  :results:
+    score: 0.0
+    tests: []
+    output: This assignment does not have an autograder configured.
+    extra_data: 
+    visibility: 
+    leaderboard: []
+    output_format: 
+    execution_time: 
+    test_name_format: 
+    test_output_format: 
+  :history: []
+submission_293924361:
+  :submitters:
+  - :name: Alexander Mena
+    :sid: '702671033'
+    :email: menaalex@udel.edu
+  :created_at: 2024-12-02 22:37:50.064612000 Z
+  :score: 0.0
+  :status: processed
+  :results:
+    score: 0.0
+    tests: []
+    output: This assignment does not have an autograder configured.
+    extra_data: 
+    visibility: 
+    leaderboard: []
+    output_format: 
+    execution_time: 
+    test_name_format: 
+    test_output_format: 
+  :history:
+  - :submitters: []
+    :created_at: 2024-12-02 22:37:00.747459000 Z
+    :score: 0.0
+    :status: processed
+    :results:
+      score: 0.0
+      tests: []
+      output: This assignment does not have an autograder configured.
+      extra_data: 
+      visibility: 
+      leaderboard: []
+      output_format: 
+      execution_time: 
+      test_name_format: 
+      test_output_format: 
+    :id: 293924054
+  - :submitters: []
+    :created_at: 2024-12-02 22:37:21.993192000 Z
+    :score: 0.0
+    :status: processed
+    :results:
+      score: 0.0
+      tests: []
+      output: This assignment does not have an autograder configured.
+      extra_data: 
+      visibility: 
+      leaderboard: []
+      output_format: 
+      execution_time: 
+      test_name_format: 
+      test_output_format: 
+    :id: 293924214
+  - :submitters: []
+    :created_at: 2024-12-02 22:37:35.597498000 Z
+    :score: 0.0
+    :status: processed
+    :results:
+      score: 0.0
+      tests: []
+      output: This assignment does not have an autograder configured.
+      extra_data: 
+      visibility: 
+      leaderboard: []
+      output_format: 
+      execution_time: 
+      test_name_format: 
+      test_output_format: 
+    :id: 293924294
+submission_296101915:
+  :submitters:
+  - :name: Logan Ponik
+    :sid: '702663034'
+    :email: lponik@udel.edu
+  :created_at: 2024-12-10 01:16:17.752500000 Z
+  :score: 0.0
+  :status: processed
+  :results:
+    score: 0.0
+    tests: []
+    output: This assignment does not have an autograder configured.
+    extra_data: 
+    visibility: 
+    leaderboard: []
+    output_format: 
+    execution_time: 
+    test_name_format: 
+    test_output_format: 
+  :history:
+  - :submitters: []
+    :created_at: 2024-12-10 01:15:48.589438000 Z
+    :score: 0.0
+    :status: processed
+    :results:
+      score: 0.0
+      tests: []
+      output: This assignment does not have an autograder configured.
+      extra_data: 
+      visibility: 
+      leaderboard: []
+      output_format: 
+      execution_time: 
+      test_name_format: 
+      test_output_format: 
+    :id: 296101776
+submission_294040196:
+  :submitters:
+  - :name: Sophia Romero
+    :sid: '702642305'
+    :email: siromero@udel.edu
+  :created_at: 2024-12-03 04:36:02.072335000 Z
+  :score: 0.0
+  :status: processed
+  :results:
+    score: 0.0
+    tests: []
+    output: This assignment does not have an autograder configured.
+    extra_data: 
+    visibility: 
+    leaderboard: []
+    output_format: 
+    execution_time: 
+    test_name_format: 
+    test_output_format: 
+  :history:
+  - :submitters: []
+    :created_at: 2024-12-03 02:14:33.137768000 Z
+    :score: 0.0
+    :status: processed
+    :results:
+      score: 0.0
+      tests: []
+      output: This assignment does not have an autograder configured.
+      extra_data: 
+      visibility: 
+      leaderboard: []
+      output_format: 
+      execution_time: 
+      test_name_format: 
+      test_output_format: 
+    :id: 293991626
+submission_294694772:
+  :submitters:
+  - :name: Devashish Kaluvakolanu
+    :sid: '702656243'
+    :email: kaldevas@udel.edu
+  :created_at: 2024-12-05 03:44:57.377435000 Z
+  :score: 0.0
+  :status: processed
+  :results:
+    score: 0.0
+    tests: []
+    output: This assignment does not have an autograder configured.
+    extra_data: 
+    visibility: 
+    leaderboard: []
+    output_format: 
+    execution_time: 
+    test_name_format: 
+    test_output_format: 
+  :history: []
+submission_296180484:
+  :submitters:
+  - :name: Ian Duffy
+    :sid: '702582059'
+    :email: ianduffy@udel.edu
+  :created_at: 2024-12-10 04:53:43.948475000 Z
+  :score: 0.0
+  :status: processed
+  :results:
+    score: 0.0
+    tests: []
+    output: This assignment does not have an autograder configured.
+    extra_data: 
+    visibility: 
+    leaderboard: []
+    output_format: 
+    execution_time: 
+    test_name_format: 
+    test_output_format: 
+  :history: []
+submission_294202176:
+  :submitters:
+  - :name: Zahra Temori
+    :sid: '702631635'
+    :email: zahratm@udel.edu
+  :created_at: 2024-12-03 20:26:09.334885000 Z
+  :score: 0.0
+  :status: processed
+  :results:
+    score: 0.0
+    tests: []
+    output: This assignment does not have an autograder configured.
+    extra_data: 
+    visibility: 
+    leaderboard: []
+    output_format: 
+    execution_time: 
+    test_name_format: 
+    test_output_format: 
+  :history:
+  - :submitters: []
+    :created_at: 2024-12-02 16:48:52.217670000 Z
+    :score: 0.0
+    :status: processed
+    :results:
+      score: 0.0
+      tests: []
+      output: This assignment does not have an autograder configured.
+      extra_data: 
+      visibility: 
+      leaderboard: []
+      output_format: 
+      execution_time: 
+      test_name_format: 
+      test_output_format: 
+    :id: 293816995
+submission_295033131:
+  :submitters:
+  - :name: Scott Hunt
+    :sid: '702603437'
+    :email: scottah@udel.edu
+  :created_at: 2024-12-06 03:12:05.621174000 Z
+  :score: 0.0
+  :status: processed
+  :results:
+    score: 0.0
+    tests: []
+    output: This assignment does not have an autograder configured.
+    extra_data: 
+    visibility: 
+    leaderboard: []
+    output_format: 
+    execution_time: 
+    test_name_format: 
+    test_output_format: 
+  :history: []
+submission_296145789:
+  :submitters:
+  - :name: Avinash Chouhan
+    :sid: '702600058'
+    :email: avinashc@udel.edu
+  :created_at: 2024-12-10 03:14:25.054887000 Z
+  :score: 0.0
+  :status: processed
+  :results:
+    score: 0.0
+    tests: []
+    output: This assignment does not have an autograder configured.
+    extra_data: 
+    visibility: 
+    leaderboard: []
+    output_format: 
+    execution_time: 
+    test_name_format: 
+    test_output_format: 
+  :history: []
+submission_293489291:
+  :submitters:
+  - :name: Keylii Hinton
+    :sid: '702763158'
+    :email: khinton@udel.edu
+  :created_at: 2024-11-29 22:38:18.098924000 Z
+  :score: 0.0
+  :status: processed
+  :results:
+    score: 0.0
+    tests: []
+    output: This assignment does not have an autograder configured.
+    extra_data: 
+    visibility: 
+    leaderboard: []
+    output_format: 
+    execution_time: 
+    test_name_format: 
+    test_output_format: 
+  :history: []
+submission_293998350:
+  :submitters:
+  - :name: Giovanna Scozzaro
+    :sid: '702626349'
+    :email: gscoz@udel.edu
+  :created_at: 2024-12-03 02:34:55.332755000 Z
+  :score: 0.0
+  :status: processed
+  :results:
+    score: 0.0
+    tests: []
+    output: This assignment does not have an autograder configured.
+    extra_data: 
+    visibility: 
+    leaderboard: []
+    output_format: 
+    execution_time: 
+    test_name_format: 
+    test_output_format: 
+  :history:
+  - :submitters: []
+    :created_at: 2024-12-03 01:42:53.979872000 Z
+    :score: 0.0
+    :status: processed
+    :results:
+      score: 0.0
+      tests: []
+      output: This assignment does not have an autograder configured.
+      extra_data: 
+      visibility: 
+      leaderboard: []
+      output_format: 
+      execution_time: 
+      test_name_format: 
+      test_output_format: 
+    :id: 293981507
+submission_294034504:
+  :submitters:
+  - :name: Mohammad Masood
+    :sid: '702642806'
+    :email: sufyanm@udel.edu
+  :created_at: 2024-12-03 04:19:50.544705000 Z
+  :score: 0.0
+  :status: processed
+  :results:
+    score: 0.0
+    tests: []
+    output: This assignment does not have an autograder configured.
+    extra_data: 
+    visibility: 
+    leaderboard: []
+    output_format: 
+    execution_time: 
+    test_name_format: 
+    test_output_format: 
+  :history: []
+submission_293904992:
+  :submitters:
+  - :name: Julius Muhumuza
+    :sid: '702648539'
+    :email: juliusnm@udel.edu
+  :created_at: 2024-12-02 21:37:56.826770000 Z
+  :score: 0.0
+  :status: processed
+  :results:
+    score: 0.0
+    tests: []
+    output: This assignment does not have an autograder configured.
+    extra_data: 
+    visibility: 
+    leaderboard: []
+    output_format: 
+    execution_time: 
+    test_name_format: 
+    test_output_format: 
+  :history:
+  - :submitters: []
+    :created_at: 2024-11-21 06:01:41.336106000 Z
+    :score: 0.0
+    :status: processed
+    :results:
+      score: 0.0
+      tests: []
+      output: This assignment does not have an autograder configured.
+      extra_data: 
+      visibility: 
+      leaderboard: []
+      output_format: 
+      execution_time: 
+      test_name_format: 
+      test_output_format: 
+    :id: 291381657
+  - :submitters: []
+    :created_at: 2024-12-02 21:35:15.932949000 Z
+    :score: 0.0
+    :status: processed
+    :results:
+      score: 0.0
+      tests: []
+      output: This assignment does not have an autograder configured.
+      extra_data: 
+      visibility: 
+      leaderboard: []
+      output_format: 
+      execution_time: 
+      test_name_format: 
+      test_output_format: 
+    :id: 293904037
+submission_293985288:
+  :submitters:
+  - :name: Jamie Pacheco
+    :sid: '702640230'
+    :email: jpacheco@udel.edu
+  :created_at: 2024-12-03 01:54:23.143552000 Z
+  :score: 0.0
+  :status: processed
+  :results:
+    score: 0.0
+    tests: []
+    output: This assignment does not have an autograder configured.
+    extra_data: 
+    visibility: 
+    leaderboard: []
+    output_format: 
+    execution_time: 
+    test_name_format: 
+    test_output_format: 
+  :history:
+  - :submitters: []
+    :created_at: 2024-12-03 01:41:43.503106000 Z
+    :score: 0.0
+    :status: processed
+    :results:
+      score: 0.0
+      tests: []
+      output: This assignment does not have an autograder configured.
+      extra_data: 
+      visibility: 
+      leaderboard: []
+      output_format: 
+      execution_time: 
+      test_name_format: 
+      test_output_format: 
+    :id: 293981191
+  - :submitters: []
+    :created_at: 2024-12-03 01:52:18.763243000 Z
+    :score: 0.0
+    :status: processed
+    :results:
+      score: 0.0
+      tests: []
+      output: This assignment does not have an autograder configured.
+      extra_data: 
+      visibility: 
+      leaderboard: []
+      output_format: 
+      execution_time: 
+      test_name_format: 
+      test_output_format: 
+    :id: 293984609
+submission_293880102:
+  :submitters:
+  - :name: Zachariah Sollenberger
+    :sid: '702699331'
+    :email: zacksoll@udel.edu
+  :created_at: 2024-12-02 20:28:37.671639000 Z
+  :score: 0.0
+  :status: processed
+  :results:
+    score: 0.0
+    tests: []
+    output: This assignment does not have an autograder configured.
+    extra_data: 
+    visibility: 
+    leaderboard: []
+    output_format: 
+    execution_time: 
+    test_name_format: 
+    test_output_format: 
+  :history: []
+submission_294019929:
+  :submitters:
+  - :name: Egor Prasolov
+    :sid: '702667680'
+    :email: esolvich@udel.edu
+  :created_at: 2024-12-03 03:41:11.038413000 Z
+  :score: 0.0
+  :status: processed
+  :results:
+    score: 0.0
+    tests: []
+    output: This assignment does not have an autograder configured.
+    extra_data: 
+    visibility: 
+    leaderboard: []
+    output_format: 
+    execution_time: 
+    test_name_format: 
+    test_output_format: 
+  :history:
+  - :submitters: []
+    :created_at: 2024-12-03 03:28:36.913478000 Z
+    :score: 0.0
+    :status: processed
+    :results:
+      score: 0.0
+      tests: []
+      output: This assignment does not have an autograder configured.
+      extra_data: 
+      visibility: 
+      leaderboard: []
+      output_format: 
+      execution_time: 
+      test_name_format: 
+      test_output_format: 
+    :id: 294015498
+submission_294208760:
+  :submitters:
+  - :name: Seth Thompson
+    :sid: '702646692'
+    :email: srt@udel.edu
+  :created_at: 2024-12-03 20:44:54.955732000 Z
+  :score: 0.0
+  :status: processed
+  :results:
+    score: 0.0
+    tests: []
+    output: This assignment does not have an autograder configured.
+    extra_data: 
+    visibility: 
+    leaderboard: []
+    output_format: 
+    execution_time: 
+    test_name_format: 
+    test_output_format: 
+  :history: []
+submission_294050089:
+  :submitters:
+  - :name: Matthew Montalvo
+    :sid: '702666981'
+    :email: mmontal@udel.edu
+  :created_at: 2024-12-03 04:59:41.543793000 Z
+  :score: 0.0
+  :status: processed
+  :results:
+    score: 0.0
+    tests: []
+    output: This assignment does not have an autograder configured.
+    extra_data: 
+    visibility: 
+    leaderboard: []
+    output_format: 
+    execution_time: 
+    test_name_format: 
+    test_output_format: 
+  :history: []
+submission_293823854:
+  :submitters:
+  - :name: Rutvik Patel
+    :sid: '702725339'
+    :email: rutvik@udel.edu
+  :created_at: 2024-12-02 17:19:06.764518000 Z
+  :score: 0.0
+  :status: processed
+  :results:
+    score: 0.0
+    tests: []
+    output: This assignment does not have an autograder configured.
+    extra_data: 
+    visibility: 
+    leaderboard: []
+    output_format: 
+    execution_time: 
+    test_name_format: 
+    test_output_format: 
+  :history: []
+submission_294365630:
+  :submitters:
+  - :name: Zachary Reggio
+    :sid: '702589703'
+    :email: zreggio@udel.edu
+  :created_at: 2024-12-04 04:40:36.208316000 Z
+  :score: 0.0
+  :status: processed
+  :results:
+    score: 0.0
+    tests: []
+    output: This assignment does not have an autograder configured.
+    extra_data: 
+    visibility: 
+    leaderboard: []
+    output_format: 
+    execution_time: 
+    test_name_format: 
+    test_output_format: 
+  :history: []
+submission_293839980:
+  :submitters:
+  - :name: Neil Irungu
+    :sid: '702529212'
+    :email: irungu@udel.edu
+  :created_at: 2024-12-02 18:23:42.971664000 Z
+  :score: 0.0
+  :status: processed
+  :results:
+    score: 0.0
+    tests: []
+    output: This assignment does not have an autograder configured.
+    extra_data: 
+    visibility: 
+    leaderboard: []
+    output_format: 
+    execution_time: 
+    test_name_format: 
+    test_output_format: 
+  :history: []
+submission_293987202:
+  :submitters:
+  - :name: Saaketh Pula
+    :sid: '702641098'
+    :email: saakethp@udel.edu
+  :created_at: 2024-12-03 02:00:32.576808000 Z
+  :score: 0.0
+  :status: processed
+  :results:
+    score: 0.0
+    tests: []
+    output: This assignment does not have an autograder configured.
+    extra_data: 
+    visibility: 
+    leaderboard: []
+    output_format: 
+    execution_time: 
+    test_name_format: 
+    test_output_format: 
+  :history:
+  - :submitters: []
+    :created_at: 2024-11-30 21:53:50.588125000 Z
+    :score: 0.0
+    :status: processed
+    :results:
+      score: 0.0
+      tests: []
+      output: This assignment does not have an autograder configured.
+      extra_data: 
+      visibility: 
+      leaderboard: []
+      output_format: 
+      execution_time: 
+      test_name_format: 
+      test_output_format: 
+    :id: 293567523
+  - :submitters: []
+    :created_at: 2024-12-02 22:17:12.819980000 Z
+    :score: 0.0
+    :status: processed
+    :results:
+      score: 0.0
+      tests: []
+      output: This assignment does not have an autograder configured.
+      extra_data: 
+      visibility: 
+      leaderboard: []
+      output_format: 
+      execution_time: 
+      test_name_format: 
+      test_output_format: 
+    :id: 293917489
+  - :submitters: []
+    :created_at: 2024-12-03 01:36:03.312637000 Z
+    :score: 0.0
+    :status: processed
+    :results:
+      score: 0.0
+      tests: []
+      output: This assignment does not have an autograder configured.
+      extra_data: 
+      visibility: 
+      leaderboard: []
+      output_format: 
+      execution_time: 
+      test_name_format: 
+      test_output_format: 
+    :id: 293979333
+  - :submitters: []
+    :created_at: 2024-12-03 01:58:47.514443000 Z
+    :score: 0.0
+    :status: processed
+    :results:
+      score: 0.0
+      tests: []
+      output: This assignment does not have an autograder configured.
+      extra_data: 
+      visibility: 
+      leaderboard: []
+      output_format: 
+      execution_time: 
+      test_name_format: 
+      test_output_format: 
+    :id: 293986640
+submission_294292136:
+  :submitters:
+  - :name: Duy Duc Tran
+    :sid: '702667543'
+    :email: dustintr@udel.edu
+  :created_at: 2024-12-04 01:03:09.632124000 Z
+  :score: 0.0
+  :status: processed
+  :results:
+    score: 0.0
+    tests: []
+    output: This assignment does not have an autograder configured.
+    extra_data: 
+    visibility: 
+    leaderboard: []
+    output_format: 
+    execution_time: 
+    test_name_format: 
+    test_output_format: 
+  :history: []
+submission_294982310:
+  :submitters:
+  - :name: Michael Murphy
+    :sid: '702592576'
+    :email: murphyme@udel.edu
+  :created_at: 2024-12-06 00:32:35.106895000 Z
+  :score: 0.0
+  :status: processed
+  :results:
+    score: 0.0
+    tests: []
+    output: This assignment does not have an autograder configured.
+    extra_data: 
+    visibility: 
+    leaderboard: []
+    output_format: 
+    execution_time: 
+    test_name_format: 
+    test_output_format: 
+  :history: []
+submission_293468371:
+  :submitters:
+  - :name: Gavin Caulfield
+    :sid: '702576545'
+    :email: gavcaul@udel.edu
+  :created_at: 2024-11-29 17:39:18.892964000 Z
+  :score: 0.0
+  :status: processed
+  :results:
+    score: 0.0
+    tests: []
+    output: This assignment does not have an autograder configured.
+    extra_data: 
+    visibility: 
+    leaderboard: []
+    output_format: 
+    execution_time: 
+    test_name_format: 
+    test_output_format: 
+  :history: []
+submission_294749822:
+  :submitters:
+  - :name: Jacob Wilber
+    :sid: '702653136'
+    :email: jwilber@udel.edu
+  :created_at: 2024-12-05 06:44:03.963644000 Z
+  :score: 0.0
+  :status: processed
+  :results:
+    score: 0.0
+    tests: []
+    output: This assignment does not have an autograder configured.
+    extra_data: 
+    visibility: 
+    leaderboard: []
+    output_format: 
+    execution_time: 
+    test_name_format: 
+    test_output_format: 
+  :history: []
+submission_293833371:
+  :submitters:
+  - :name: Junpuyin Wei
+    :sid: '702672083'
+    :email: junpuyin@udel.edu
+  :created_at: 2024-12-02 17:58:26.667434000 Z
+  :score: 0.0
+  :status: processed
+  :results:
+    score: 0.0
+    tests: []
+    output: This assignment does not have an autograder configured.
+    extra_data: 
+    visibility: 
+    leaderboard: []
+    output_format: 
+    execution_time: 
+    test_name_format: 
+    test_output_format: 
+  :history: []
+submission_296123089:
+  :submitters:
+  - :name: Mayowa Ayeni
+    :sid: '702286022'
+    :email: mayeni@udel.edu
+  :created_at: 2024-12-10 02:08:32.830108000 Z
+  :score: 0.0
+  :status: processed
+  :results:
+    score: 0.0
+    tests: []
+    output: This assignment does not have an autograder configured.
+    extra_data: 
+    visibility: 
+    leaderboard: []
+    output_format: 
+    execution_time: 
+    test_name_format: 
+    test_output_format: 
+  :history:
+  - :submitters: []
+    :created_at: 2024-12-02 19:33:52.345910000 Z
+    :score: 0.0
+    :status: processed
+    :results:
+      score: 0.0
+      tests: []
+      output: This assignment does not have an autograder configured.
+      extra_data: 
+      visibility: 
+      leaderboard: []
+      output_format: 
+      execution_time: 
+      test_name_format: 
+      test_output_format: 
+    :id: 293861042
+submission_294952637:
+  :submitters:
+  - :name: Sydney Holland
+    :sid: '702540116'
+    :email: sydneymh@udel.edu
+  :created_at: 2024-12-05 23:11:54.564171000 Z
+  :score: 0.0
+  :status: processed
+  :results:
+    score: 0.0
+    tests: []
+    output: This assignment does not have an autograder configured.
+    extra_data: 
+    visibility: 
+    leaderboard: []
+    output_format: 
+    execution_time: 
+    test_name_format: 
+    test_output_format: 
+  :history:
+  - :submitters: []
+    :created_at: 2024-12-03 04:44:05.475643000 Z
+    :score: 0.0
+    :status: processed
+    :results:
+      score: 0.0
+      tests: []
+      output: This assignment does not have an autograder configured.
+      extra_data: 
+      visibility: 
+      leaderboard: []
+      output_format: 
+      execution_time: 
+      test_name_format: 
+      test_output_format: 
+    :id: 294042950
+  - :submitters: []
+    :created_at: 2024-12-04 04:15:48.844464000 Z
+    :score: 0.0
+    :status: processed
+    :results:
+      score: 0.0
+      tests: []
+      output: This assignment does not have an autograder configured.
+      extra_data: 
+      visibility: 
+      leaderboard: []
+      output_format: 
+      execution_time: 
+      test_name_format: 
+      test_output_format: 
+    :id: 294356544
+submission_295371114:
+  :submitters:
+  - :name: Dylan Blevins
+    :sid: '702646924'
+    :email: dylanwho@udel.edu
+  :created_at: 2024-12-07 00:15:17.797927000 Z
+  :score: 0.0
+  :status: processed
+  :results:
+    score: 0.0
+    tests: []
+    output: This assignment does not have an autograder configured.
+    extra_data: 
+    visibility: 
+    leaderboard: []
+    output_format: 
+    execution_time: 
+    test_name_format: 
+    test_output_format: 
+  :history:
+  - :submitters: []
+    :created_at: 2024-12-03 17:59:50.082440000 Z
+    :score: 0.0
+    :status: processed
+    :results:
+      score: 0.0
+      tests: []
+      output: This assignment does not have an autograder configured.
+      extra_data: 
+      visibility: 
+      leaderboard: []
+      output_format: 
+      execution_time: 
+      test_name_format: 
+      test_output_format: 
+    :id: 294149524
+submission_295043995:
+  :submitters:
+  - :name: James Lloyd
+    :sid: '702589028'
+    :email: jclloyd@udel.edu
+  :created_at: 2024-12-06 03:46:17.311859000 Z
+  :score: 0.0
+  :status: processed
+  :results:
+    score: 0.0
+    tests: []
+    output: This assignment does not have an autograder configured.
+    extra_data: 
+    visibility: 
+    leaderboard: []
+    output_format: 
+    execution_time: 
+    test_name_format: 
+    test_output_format: 
+  :history: []
+submission_290328400:
+  :submitters:
+  - :name: Kevin Kramer
+    :sid: '702646066'
+    :email: kkramer@udel.edu
+  :created_at: 2024-11-18 20:42:22.529819000 Z
+  :score: 0.0
+  :status: processed
+  :results:
+    score: 0.0
+    tests: []
+    output: This assignment does not have an autograder configured.
+    extra_data: 
+    visibility: 
+    leaderboard: []
+    output_format: 
+    execution_time: 
+    test_name_format: 
+    test_output_format: 
+  :history:
+  - :submitters: []
+    :created_at: 2024-11-18 18:02:04.407630000 Z
+    :score: 0.0
+    :status: processed
+    :results:
+      score: 0.0
+      tests: []
+      output: This assignment does not have an autograder configured.
+      extra_data: 
+      visibility: 
+      leaderboard: []
+      output_format: 
+      execution_time: 
+      test_name_format: 
+      test_output_format: 
+    :id: 290259041
+submission_294040631:
+  :submitters:
+  - :name: Marc Madlangbayan
+    :sid: '702664023'
+    :email: marcm@udel.edu
+  :created_at: 2024-12-03 04:37:23.256054000 Z
+  :score: 0.0
+  :status: processed
+  :results:
+    score: 0.0
+    tests: []
+    output: This assignment does not have an autograder configured.
+    extra_data: 
+    visibility: 
+    leaderboard: []
+    output_format: 
+    execution_time: 
+    test_name_format: 
+    test_output_format: 
+  :history: []
+submission_294374229:
+  :submitters:
+  - :name: Edwin Zheng
+    :sid: '702646969'
+    :email: edwinzh@udel.edu
+  :created_at: 2024-12-04 04:58:45.187771000 Z
+  :score: 0.0
+  :status: processed
+  :results:
+    score: 0.0
+    tests: []
+    output: This assignment does not have an autograder configured.
+    extra_data: 
+    visibility: 
+    leaderboard: []
+    output_format: 
+    execution_time: 
+    test_name_format: 
+    test_output_format: 
+  :history:
+  - :submitters: []
+    :created_at: 2024-12-03 06:58:16.062688000 Z
+    :score: 0.0
+    :status: processed
+    :results:
+      score: 0.0
+      tests: []
+      output: This assignment does not have an autograder configured.
+      extra_data: 
+      visibility: 
+      leaderboard: []
+      output_format: 
+      execution_time: 
+      test_name_format: 
+      test_output_format: 
+    :id: 294075761
+  - :submitters: []
+    :created_at: 2024-12-04 04:54:52.075066000 Z
+    :score: 0.0
+    :status: processed
+    :results:
+      score: 0.0
+      tests: []
+      output: This assignment does not have an autograder configured.
+      extra_data: 
+      visibility: 
+      leaderboard: []
+      output_format: 
+      execution_time: 
+      test_name_format: 
+      test_output_format: 
+    :id: 294371860
+submission_294040936:
+  :submitters:
+  - :name: Kayla Roth
+    :sid: '702595633'
+    :email: kjroth@udel.edu
+  :created_at: 2024-12-03 04:38:14.713566000 Z
+  :score: 0.0
+  :status: processed
+  :results:
+    score: 0.0
+    tests: []
+    output: This assignment does not have an autograder configured.
+    extra_data: 
+    visibility: 
+    leaderboard: []
+    output_format: 
+    execution_time: 
+    test_name_format: 
+    test_output_format: 
+  :history: []
+submission_294058208:
+  :submitters:
+  - :name: Aaron Oster
+    :sid: '702620413'
+    :email: aoster@udel.edu
+  :created_at: 2024-12-03 05:32:58.817236000 Z
+  :score: 0.0
+  :status: processed
+  :results:
+    score: 0.0
+    tests: []
+    output: This assignment does not have an autograder configured.
+    extra_data: 
+    visibility: 
+    leaderboard: []
+    output_format: 
+    execution_time: 
+    test_name_format: 
+    test_output_format: 
+  :history:
+  - :submitters: []
+    :created_at: 2024-12-03 05:31:28.495431000 Z
+    :score: 0.0
+    :status: processed
+    :results:
+      score: 0.0
+      tests: []
+      output: This assignment does not have an autograder configured.
+      extra_data: 
+      visibility: 
+      leaderboard: []
+      output_format: 
+      execution_time: 
+      test_name_format: 
+      test_output_format: 
+    :id: 294057895
+submission_295470948:
+  :submitters:
+  - :name: Thomas Pelosi
+    :sid: '702600055'
+    :email: tpoeml@udel.edu
+  :created_at: 2024-12-07 04:58:17.721898000 Z
+  :score: 0.0
+  :status: processed
+  :results:
+    score: 0.0
+    tests: []
+    output: This assignment does not have an autograder configured.
+    extra_data: 
+    visibility: 
+    leaderboard: []
+    output_format: 
+    execution_time: 
+    test_name_format: 
+    test_output_format: 
+  :history: []
+submission_295317680:
+  :submitters:
+  - :name: Grace Donaher
+    :sid: '702656188'
+    :email: gdonaher@udel.edu
+  :created_at: 2024-12-06 22:13:44.173248000 Z
+  :score: 0.0
+  :status: processed
+  :results:
+    score: 0.0
+    tests: []
+    output: This assignment does not have an autograder configured.
+    extra_data: 
+    visibility: 
+    leaderboard: []
+    output_format: 
+    execution_time: 
+    test_name_format: 
+    test_output_format: 
+  :history:
+  - :submitters: []
+    :created_at: 2024-12-05 23:20:08.979950000 Z
+    :score: 0.0
+    :status: processed
+    :results:
+      score: 0.0
+      tests: []
+      output: This assignment does not have an autograder configured.
+      extra_data: 
+      visibility: 
+      leaderboard: []
+      output_format: 
+      execution_time: 
+      test_name_format: 
+      test_output_format: 
+    :id: 294955565

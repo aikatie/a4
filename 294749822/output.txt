@@ -1,0 +1,100 @@
+Script started on Thu 05 Dec 2024 01:02:33 AM EST
+sh: __vsc_prompt_cmd_original: command not found
+[?1034h]633;A[(ea-cisc372-schiller:jwilber)@r1t01 fractal]$ ]633;Bexit./fractal_cuda 640 360 104096 2160 504503840 2160 352560 1440 251920 1080 202560 1440 253200 1800 302560 1440 251920 1080 20[15P[C[C[C[C[C[C[C[C[C[C[C[C./fractal_cuda 1280 720 15[1P640 360 10[15P[C[C[C[C[C[C[C[C[C[C./fractal_cuda 1024 768 64nvcc -O3 fractal2.cu -o fractal_cuda[10P./fractal_cuda 1024 768 64nvcc -O3 fractal2.cu -o fractal_cuda-version[K     vpkg_require cuda/12.3.0[4Pvpkg_versions cuda/12.6.0     vpkg_require cuda/12.3.0[4Pvpkg_versions cuda/12.6.0     vpkg_require cuda/12.3.0
+sh: __vsc_prompt_cmd_original: command not found
+]633;A[(ea-cisc372-schiller:jwilber)@r1t01 fractal]$ ]633;B     vpkg_require cuda/12.3.0exit[K./fractal_cuda 640 360 104096 2160 504503840 2160 352560 1440 251920 1080 202560 1440 253200 1800 302560 1440 251920 1080 20[15P[C[C[C[C[C[C[C[C[C[C[C[C./fractal_cuda 1280 720 15[1P640 360 10[15P[C[C[C[C[C[C[C[C[C[C./fractal_cuda 1024 768 64nvcc -O3 fractal2.cu -o fractal_cuda
+sh: __vsc_prompt_cmd_original: command not found
+]633;A[(ea-cisc372-schiller:jwilber)@r1t01 fractal]$ ]633;Bnvcc -O3 fractal2.cu -o fractal_cuda[7P     vpkg_require cuda/12.3.0exit[K./fractal_cuda 640 360 104096 2160 504503840 2160 352560 1440 251920 1080 202560 1440 253200 1800 302560 1440 251920 1080 20[15P[C[C[C[C[C[C[C[C[C[C[C[C./fractal_cuda 1280 720 15[1P640 360 101280 720 15
+Fractal v1.6 [CUDA]
+Computing 15 frames of 1280 by 720 fractal
+CUDA compute time: 0.003326 s
+sh: __vsc_prompt_cmd_original: command not found
+]633;A[(ea-cisc372-schiller:jwilber)@r1t01 fractal]$ ]633;B./fractal_cuda 1280 720 15
+Fractal v1.6 [CUDA]
+Computing 15 frames of 1280 by 720 fractal
+CUDA compute time: 0.002590 s
+sh: __vsc_prompt_cmd_original: command not found
+]633;A[(ea-cisc372-schiller:jwilber)@r1t01 fractal]$ ]633;B./fractal_cuda 1280 720 15
+Fractal v1.6 [CUDA]
+Computing 15 frames of 1280 by 720 fractal
+CUDA compute time: 0.002240 s
+sh: __vsc_prompt_cmd_original: command not found
+]633;A[(ea-cisc372-schiller:jwilber)@r1t01 fractal]$ ]633;B./fractal_cuda 1280 720 15nvcc -O3 fractal2.cu -o fractal_cuda[7P     vpkg_require cuda/12.3.0exit[K./fractal_cuda 640 360 104096 2160 504503840 2160 352560 1440 251920 1080 202560 1440 253200 1800 302560 1440 251920 1080 20[15P[C[C[C[C[C[C[C[C[C[C[C[C./fractal_cuda 1280 720 15[14P1920 1080 20[15@./fractal_cuda [C[C[C[C[C[C[C[C[C[C[C[C
+Fractal v1.6 [CUDA]
+Computing 20 frames of 1920 by 1080 fractal
+CUDA compute time: 0.001905 s
+sh: __vsc_prompt_cmd_original: command not found
+]633;A[(ea-cisc372-schiller:jwilber)@r1t01 fractal]$ ]633;B./fractal_cuda 1920 1080 20
+Fractal v1.6 [CUDA]
+Computing 20 frames of 1920 by 1080 fractal
+CUDA compute time: 0.002246 s
+sh: __vsc_prompt_cmd_original: command not found
+]633;A[(ea-cisc372-schiller:jwilber)@r1t01 fractal]$ ]633;B./fractal_cuda 1920 1080 20[1P280 720 15nvcc -O3 fractal2.cu -o fractal_cuda[7P     vpkg_require cuda/12.3.0exit[K./fractal_cuda 640 360 104096 2160 504503840 2160 352560 1440 25
+Fractal v1.6 [CUDA]
+Computing 25 frames of 2560 by 1440 fractal
+CUDA compute time: 0.003742 s
+sh: __vsc_prompt_cmd_original: command not found
+]633;A[(ea-cisc372-schiller:jwilber)@r1t01 fractal]$ ]633;B./fractal_cuda 2560 1440 25
+Fractal v1.6 [CUDA]
+Computing 25 frames of 2560 by 1440 fractal
+CUDA compute time: 0.001745 s
+sh: __vsc_prompt_cmd_original: command not found
+]633;A[(ea-cisc372-schiller:jwilber)@r1t01 fractal]$ ]633;B./fractal_cuda 2560 1440 25
+Fractal v1.6 [CUDA]
+Computing 25 frames of 2560 by 1440 fractal
+CUDA compute time: 0.001748 s
+sh: __vsc_prompt_cmd_original: command not found
+]633;A[(ea-cisc372-schiller:jwilber)@r1t01 fractal]$ ]633;B./fractal_cuda 2560 1440 25
+Fractal v1.6 [CUDA]
+Computing 25 frames of 2560 by 1440 fractal
+CUDA compute time: 0.001981 s
+sh: __vsc_prompt_cmd_original: command not found
+]633;A[(ea-cisc372-schiller:jwilber)@r1t01 fractal]$ ]633;B./fractal_cuda 2560 1440 251920 1080 20[1P280 720 15nvcc -O3 fractal2.cu -o fractal_cuda[7P     vpkg_require cuda/12.3.0exit[K./fractal_cuda 640 360 104096 2160 504503840 2160 352560 1440 251920 1080 202560 1440 253200 1800 30
+Fractal v1.6 [CUDA]
+Computing 30 frames of 3200 by 1800 fractal
+CUDA compute time: 0.002094 s
+sh: __vsc_prompt_cmd_original: command not found
+]633;A[(ea-cisc372-schiller:jwilber)@r1t01 fractal]$ ]633;B./fractal_cuda 3200 1800 302560 1440 251920 1080 20[1P280 720 15nvcc -O3 fractal2.cu -o fractal_cuda[7P     vpkg_require cuda/12.3.0exit[K./fractal_cuda 640 360 104096 2160 504503840 2160 35
+Fractal v1.6 [CUDA]
+Computing 35 frames of 3840 by 2160 fractal
+CUDA compute time: 0.003249 s
+sh: __vsc_prompt_cmd_original: command not found
+]633;A[(ea-cisc372-schiller:jwilber)@r1t01 fractal]$ ]633;B./fractal_cuda 3840 2160 35
+Fractal v1.6 [CUDA]
+Computing 35 frames of 3840 by 2160 fractal
+CUDA compute time: 0.001764 s
+sh: __vsc_prompt_cmd_original: command not found
+]633;A[(ea-cisc372-schiller:jwilber)@r1t01 fractal]$ ]633;B./fractal_cuda 3840 2160 35
+Fractal v1.6 [CUDA]
+Computing 35 frames of 3840 by 2160 fractal
+CUDA compute time: 0.002200 s
+sh: __vsc_prompt_cmd_original: command not found
+]633;A[(ea-cisc372-schiller:jwilber)@r1t01 fractal]$ ]633;B./fractal_cuda 3840 2160 35200 1800 302560 1440 251920 1080 20[1P280 720 15nvcc -O3 fractal2.cu -o fractal_cuda[7P     vpkg_require cuda/12.3.0exit[K./fractal_cuda 640 360 104096 2160 504503840 2160 354096 2160 40
+Fractal v1.6 [CUDA]
+Computing 40 frames of 4096 by 2160 fractal
+CUDA compute time: 0.002298 s
+sh: __vsc_prompt_cmd_original: command not found
+]633;A[(ea-cisc372-schiller:jwilber)@r1t01 fractal]$ ]633;B./fractal_cuda 4096 2160 403840 2160 35200 1800 302560 1440 251920 1080 20[1P280 720 15nvcc -O3 fractal2.cu -o fractal_cuda[7P     vpkg_require cuda/12.3.0exit[K./fractal_cuda 640 360 104096 2160 5045
+Fractal v1.6 [CUDA]
+Computing 45 frames of 4096 by 2160 fractal
+CUDA compute time: 0.002983 s
+sh: __vsc_prompt_cmd_original: command not found
+]633;A[(ea-cisc372-schiller:jwilber)@r1t01 fractal]$ ]633;B./fractal_cuda 4096 2160 45[C[K[K50
+Fractal v1.6 [CUDA]
+Computing 50 frames of 4096 by 2160 fractal
+CUDA compute time: 0.002004 s
+sh: __vsc_prompt_cmd_original: command not found
+]633;A[(ea-cisc372-schiller:jwilber)@r1t01 fractal]$ ]633;B./fractal_cuda 4096 2160 50[K[K60
+Fractal v1.6 [CUDA]
+Computing 60 frames of 4096 by 2160 fractal
+CUDA compute time: 0.001768 s
+sh: __vsc_prompt_cmd_original: command not found
+]633;A[(ea-cisc372-schiller:jwilber)@r1t01 fractal]$ ]633;B./fractal_cuda 4096 2160 60
+Fractal v1.6 [CUDA]
+Computing 60 frames of 4096 by 2160 fractal
+CUDA compute time: 0.002687 s
+sh: __vsc_prompt_cmd_original: command not found
+]633;A[(ea-cisc372-schiller:jwilber)@r1t01 fractal]$ ]633;Bexit
+exit
+
+Script done on Thu 05 Dec 2024 01:08:35 AM EST

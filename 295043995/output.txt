@@ -1,0 +1,55 @@
+Script started on Thu Dec  5 21:59:57 2024
+]0;jclloyd@:~/HW4[?1034h[jclloyd@r2v02 HW4]$ srun ./320     fractal_cuda 320 200 10
+Fractal v1.6 [CUDA]
+Computing 10 frames of 320 by 200 fractal
+Total compute time: 0.000086 s
+Total compute time with Memcpy: 0.001025 s
+]0;jclloyd@:~/HW4[jclloyd@r2v02 HW4]$ srun ./fractal_cuda 320 200 100  60
+Fractal v1.6 [CUDA]
+Computing 60 frames of 320 by 200 fractal
+Total compute time: 0.000055 s
+Total compute time with Memcpy: 0.004787 s
+]0;jclloyd@:~/HW4[jclloyd@r2v02 HW4]$ srun ./fractal_cuda 320 200 600 60          640 400 32
+Fractal v1.6 [CUDA]
+Computing 32 frames of 640 by 400 fractal
+Total compute time: 0.000043 s
+Total compute time with Memcpy: 0.007946 s
+]0;jclloyd@:~/HW4[jclloyd@r2v02 HW4]$ srun ./fractal_cuda 640 400 322  60
+Fractal v1.6 [CUDA]
+Computing 60 frames of 640 by 400 fractal
+Total compute time: 0.000048 s
+Total compute time with Memcpy: 0.012802 s
+]0;jclloyd@:~/HW4[jclloyd@r2v02 HW4]$ 1920 1080 25srun ./fractal_cuda 640 400 60          1920 1080 25
+Fractal v1.6 [CUDA]
+Computing 25 frames of 1920 by 1080 fractal
+Total compute time: 0.000050 s
+Total compute time with Memcpy: 0.042721 s
+]0;jclloyd@:~/HW4[jclloyd@r2v02 HW4]$ srun ./fractal_cuda 1920 1080 25  60
+Fractal v1.6 [CUDA]
+Computing 60 frames of 1920 by 1080 fractal
+Total compute time: 0.000043 s
+Total compute time with Memcpy: 0.099758 s
+]0;jclloyd@:~/HW4[jclloyd@r2v02 HW4]$ srun ./fractal_cuda 1920 1080 60              2560 1440 10
+Fractal v1.6 [CUDA]
+Computing 10 frames of 2560 by 1440 fractal
+Total compute time: 0.000040 s
+Total compute time with Memcpy: 0.031166 s
+]0;jclloyd@:~/HW4[jclloyd@r2v02 HW4]$ srun ./fractal_cuda 2560 1440 10  60
+Fractal v1.6 [CUDA]
+Computing 60 frames of 2560 by 1440 fractal
+Total compute time: 0.000040 s
+Total compute time with Memcpy: 0.186345 s
+]0;jclloyd@:~/HW4[jclloyd@r2v02 HW4]$ srun ./fractal_cuda 2560 1440 600              4096 2160 30
+Fractal v1.6 [CUDA]
+Computing 30 frames of 4096 by 2160 fractal
+Total compute time: 0.000042 s
+Total compute time with Memcpy: 0.211224 s
+]0;jclloyd@:~/HW4[jclloyd@r2v02 HW4]$ srun ./fractal_cuda 4096 2160 302560 1440 604096 2160 30  60
+Fractal v1.6 [CUDA]
+Computing 60 frames of 4096 by 2160 fractal
+Total compute time: 0.000040 s
+Total compute time with Memcpy: 0.409248 s
+]0;jclloyd@:~/HW4[jclloyd@r2v02 HW4]$ exit
+exit
+
+Script done on Thu Dec  5 22:02:48 2024

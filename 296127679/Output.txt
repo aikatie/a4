@@ -1,0 +1,18 @@
+Script started on Mon Dec  9 21:17:01 2024
+^[]0;joshwash@:~^G^[[?1034h[joshwash@r2v00 ~]$ vpgk_require cuda^M
+sh: vpgk_require: command not found^M
+^[]0;joshwash@:~^G[joshwash@r2v00 ~]$ vpgk_require cuda^H^H^H^H^H^H^H^H^H^H^H^H^H^Hk^H^[[1P^H^[[1P^[[1@k^[[1@g^M
+Adding package `cuda/11.3.1-465.19.01` to your environment^M
+^[]0;joshwash@:~^G[joshwash@r2v00 ~]$ vpkg_require cuda^H^H^H^H^H^H^H^H^H^H^H^H^H^H^Hgk_require cuda^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^Hsalloc --ntasks=1 --cpus-per-task=1 --gpus=1 --partition=^M=gpu-v100^[[A@r2v00 ~]$ s^[[26Prun fractal_cuda 1920 1080 60^M
+^M^[[K^[[A[joshwash@r2v00 ~]$ srun fractal_cuda 1920 1080 60^M[joshwash@r2v00 ~]$ nvcc -O3 ftest.cu -o fractal_cuda^M[joshwash@r2v00 ~]$ ^[[21Pvim ftest.cu^H^H^H^H^H^H^H^H^H^H^H^Hnvcc -O3 ftest.cu -o fractal_cuda^M[joshwash@r2v00 ~]$ ^[[21Pvim ftest.cu^H^H^H^H^H^H^H^[[2@ractal.cu^H^H^H^H^H^H^H^H^H^H^H^H^H^Hls^[[K^H^Hvim fractal.cu^H^H^H^H^H^H^H^H^H^H^H^H^H^Hls^[[K^H^Hsalloc --ntasks=1 --cpus-per-task=1 --gpus=1 --partition=^M=gpu-v100^[[A@r2v00 ~]$ vpkg_require cuda^[[K^M
+^M^[[K^[[A[joshwash@r2v00 ~]$ vpkg_require cuda^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^Hsalloc --ntasks=1 --cpus-per-task=1 --gpus=1 --partition=^M=gpu-v100^[[A@r2v00 ~]$ ^[[24Pworkgroup -g ea-cisc372-schiller^M
+^M^[[K^[[A[joshwash@r2v00 ~]$ workgroup -g ea-cisc372-schiller^M[joshwash@r2v00 ~]$ exit^[[K^H^H^H^H^[[1P:wq^H^H^Hsrun fractal_cuda 1920 1080 60^M[joshwash@r2v00 ~]$ nvcc -O3 ftest2.cu -o fractal_cuda^M[joshwash@r2v00 ~]$ ^[[21Pvim ftest2.cu^H^H^H^H^H^H^H^H^H^H^H^H^Hnvcc -O3 ftest2.cu -o fractal_cuda^M[joshwash@r2v00 ~]$ ^[[17Pvpkg_require cuda^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^[[17@nvcc -O3 ftest2.cu -o fractal_cuda^M[joshwash@r2v00 ~]$ ^[[21Pvim ftest2.cu^H^H^H^H^H^H^H^H^[[7@ractal_float.cu^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^Hsrun fractal_cuda 640 360 60^M[joshwash@r2v00 ~]$ ^[[8Pvim fractal_float.cu^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^Hsrun fractal_cuda 640 360 60^M[joshwash@r2v00 ~]$ exit^[[K^H^[[K^H^H^Hscp fractal.cu^H^H^H^H^H^H^H^H^H^H^H^H^H^Hexi^[[K^H^H^Hscp fractal.cu^H^H^H^H^H^H^H^H^H^H^H^[[K^H^Hrun fractal_cuda 640 360 60^H^H^H^H^H^H^H^H^H^H^[[2@1920 1080 60^H^H^H^H^H^H^H^H^H^H^H^[[1P280 720 60^H^H^H^H^H^H^H^H^H^H^H^[[1@2560 1440 60^H^H^H^H^H^H^H^H^H^H^H^H3840 2160 60^H^H30^H^H^H^H^H^H^H^H^H^H^H^H2560 1440 30^H^H^H^H^H^H^H^H^H^H^H^H1920 1080 30^H^H^H^H^H^H^H^H^H^H^H^[[1P280 720 30^H^H^H^H^H^H^H^H^H^H^H^[[1P640 360 30^M[joshwash@r2v00 ~]$ nvcc -O3 fractal_float.cu -o fractal_cuda^M[joshwash@r2v00 ~]$ ^[[21Pvim fractal_float.cu^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^Hsrun fractal_cuda 640 360 30^M[joshwash@r2v00 ~]$ ^[[8Pvim fractal_float.cu^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^Hnvcc -O3 fractal_float.cu -o fractal_cuda^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^[[1P^H^[[1P^H^[[1P^H^[[1P^H^[[1P^H^[[1P^M
+^[]0;joshwash@:~^G[joshwash@r2v00 ~]$ nvcc -O3 fractal.cu -o fractal_cuda^M[joshwash@r2v00 ~]$ ^[[18Pvpkg_require cuda^H^H^H^H^H^H^H^H^H^H^H^H^H^H^Hgk_require cuda^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^Hsalloc --ntasks=1 --cpus-per-task=1 --gpus=1 --partition=^M=gpu-v100^[[A@r2v00 ~]$ s^[[26Prun fractal_cuda 1920 1080 60^M
+^M^[[K^[[A[joshwash@r2v00 ~]$ srun fractal_cuda 1920 1080 60^M[joshwash@r2v00 ~]$ nvcc -O3 ftest.cu -o fractal_cuda^M[joshwash@r2v00 ~]$ ^[[3Psrun fractal_cuda 1920 1080 60^M
+Fractal v1.6 [Cuda]^M
+Computing 60 frames of 1920 by 1080 fractal^M
+Cuda compute time: 0.051039 s^M
+^[]0;joshwash@:~^G[joshwash@r2v00 ~]$ eix^H ^H^H ^Hxit^M
+exit^M
+
+Script done on Mon Dec  9 21:18:06 2024

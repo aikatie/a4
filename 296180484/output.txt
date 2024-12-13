@@ -1,0 +1,57 @@
+Script started on Mon Dec  9 17:17:54 2024
+[ianduffy@r2v02 4-homework]$ ./fractal_cuda 320 200 10
+Fractal v1.6 [parallel]
+Computing 10 frames of 320 by 200 fractal
+Parallel compute time: 0.000411 s
+[ianduffy@r2v02 4-homework]$ ./fractal 320 200 10
+Fractal v1.6 [serial]
+Computing 10 frames of 320 by 200 fractal
+Serial compute time: 0.4103 s
+[ianduffy@r2v02 4-homework]$ ./fractal_cuda 640 400 32
+Fractal v1.6 [parallel]
+Computing 32 frames of 640 by 400 fractal
+Parallel compute time: 0.004317 s
+[ianduffy@r2v02 4-homework]$ ./fractal 640 400 32
+Fractal v1.6 [serial]
+Computing 32 frames of 640 by 400 fractal
+Serial compute time: 4.9398 s
+[ianduffy@r2v02 4-homework]$ ./fractal_cuda 1024 768 32
+Fractal v1.6 [parallel]
+Computing 32 frames of 1024 by 768 fractal
+Parallel compute time: 0.012359 s
+[ianduffy@r2v02 4-homework]$ ./fractal 1024 768 32
+Fractal v1.6 [serial]
+Computing 32 frames of 1024 by 768 fractal
+Serial compute time: 15.1888 s
+[ianduffy@r2v02 4-homework]$ ./fractal_cuda 320 200 32
+Fractal v1.6 [parallel]
+Computing 32 frames of 320 by 200 fractal
+Parallel compute time: 0.001944 s
+[ianduffy@r2v02 4-homework]$ ./fractal_cuda 640 400 60
+Fractal v1.6 [parallel]
+Computing 60 frames of 640 by 400 fractal
+Parallel compute time: 0.006755 s
+[ianduffy@r2v02 4-homework]$ ./fractal_cuda 1024 768 60
+Fractal v1.6 [parallel]
+Computing 60 frames of 1024 by 768 fractal
+Parallel compute time: 0.014649 s
+[ianduffy@r2v02 4-homework]$ ./fractal_cuda 1280 800 30
+Fractal v1.6 [parallel]
+Computing 30 frames of 1280 by 800 fractal
+Parallel compute time: 0.023309 s
+[ianduffy@r2v02 4-homework]$ ./fractal_cuda 1280 800 60
+Fractal v1.6 [parallel]
+Computing 60 frames of 1280 by 800 fractal
+Parallel compute time: 0.027689 s
+[ianduffy@r2v02 4-homework]$ ./fractal_cuda 2048 1536 30
+Fractal v1.6 [parallel]
+Computing 30 frames of 2048 by 1536 fractal
+Parallel compute time: 0.045193 s
+[ianduffy@r2v02 4-homework]$ ./fractal_cuda 2048 1536 60
+Fractal v1.6 [parallel]
+Computing 60 frames of 2048 by 1536 fractal
+Parallel compute time: 0.049388 s
+[ianduffy@r2v02 4-homework]$ exit
+exit
+
+Script done on Mon Dec  9 17:23:38 2024

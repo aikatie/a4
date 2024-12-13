@@ -1,0 +1,9 @@
+Script started on Mon Dec  2 18:40:29 2024
+[gscoz@r2v00 ~]$ srun fractal_cuda 320 200 60
+Fractal v1.6 [{parallel}]
+Computing 60 frames of 320 by 200 fractal
+Parallel compute time: 0.004846 s
+[gscoz@r2v00 ~]$ exit
+exit
+
+Script done on Mon Dec  2 18:40:40 2024

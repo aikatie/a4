@@ -1,0 +1,26 @@
+Serial:
+
+./fractal 320 200 10					00.3800
+./fractal 640 400 32					04.0557
+./fractal 640 400 64					07.8928
+./fractal 1024 768 32					12.3034
+./fractal 1024 768 64					23.5808
+
+Parallel:
+
+srun ./fractal_cuda 320 200 10			0.7849
+srun ./fractal_cuda 640 400 32			1.0270
+srun ./fractal_cuda 640 400 64			1.0670
+srun ./fractal_cuda 1024 768 32			1.0646
+srun ./fractal_cuda 1024 768 64			0.9925
+
+Floats instead of Doubles:
+
+srun ./fractalf_cuda 320 200 10			1.0444
+srun ./fractalf_cuda 640 400 32			1.0083
+srun ./fractalf_cuda 640 400 64			1.0274
+srun ./fractalf_cuda 1024 768 32		1.0031
+srun ./fractalf_cuda 1024 768 64		1.0113
+
+I think this time change is due to floats having less precision than doubles.
+With less precision there is less computational complexity, meaning the numbers are all more similar, leading to times for the float program being very similar.

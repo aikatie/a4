@@ -1,0 +1,45 @@
+Script started on Tue 03 Dec 2024 03:34:58 PM EST
+]0;srt@:~/CUDA_CODE [?1034h[(ea-cisc372-schiller:srt)@r2v01 CUDA_CODE]$ ctal
+CUDA compute time: 0.003052 s
+]0;srt@:~/CUDA_CODE [?1034h[(ea-cisc372-schiller:srt)@r2v01 CUDA_CODE]$ Fractal v1.6 [CUDA]
+Computing 20 frames of 640 by 400 fractal
+CUDA compute time: 0.004767 s
+Fractal v1.6 [CUDA]
+Computing 20 frames of 800 by 600 fractal
+CUDA compute time: 0.009176 s
+Fractal v1.6 [CUDA]
+Computing 30 frames of 800 by 600 fractal
+CUDA compute time: 0.012567 s
+Fractal v1.6 [CUDA]
+Computing 30 frames of 1280 by 720 fractal
+CUDA compute time: 0.023147 s
+Fractal v1.6 [CUDA]
+Computing 40 frames of 1280 by 720 fractal
+CUDA compute time: 0.030611 s
+Fractal v1.6 [CUDA]
+Computing 40 frames of 1920 by 1080 fractal
+CUDA compute time: 0.066461 s
+Fractal v1.6 [CUDA]
+Computing 50 frames of 1920 by 1080 fractal
+CUDA compute time: 0.084019 s
+Fractal v1.6 [CUDA]
+Computing 50 frames of 2560 by 1440 fractal
+CUDA compute time: 0.146001 s
+Fractal v1.6 [CUDA]
+Computing 60 frames of 2560 by 1440 fractal
+CUDA compute time: 0.173624 s
+Fractal v1.6 [CUDA]
+Computing 50 frames of 3200 by 1800 fractal
+CUDA compute time: 0.226411 s
+Fractal v1.6 [CUDA]
+Computing 60 frames of 3200 by 1800 fractal
+CUDA compute time: 0.270259 s
+Fractal v1.6 [CUDA]
+Computing 60 frames of 3840 by 2160 fractal
+CUDA compute time: 0.378230 s
+Fractal v1.6 [CUDA]
+Computing 50 frames of 4096 by 2160 fractal
+CUDA compute time: 0.342569 s
+Fractal v1.6 [CUDA]
+Computing 60 frames of 4096 by 2160 fractal
+CUDA compute time: 0.406260 s

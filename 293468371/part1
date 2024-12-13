@@ -1,0 +1,24 @@
+gavcaul@cisc372:~/372/hw4$ ./fractal 640 400 32
+Fractal v1.6 [serial]
+Computing 32 frames of 640 by 400 fractal
+Serial compute time: 8.4667 s
+gavcaul@cisc372:~/372/hw4$ ./fractal 640 400 32
+Fractal v1.6 [serial]
+Computing 32 frames of 640 by 400 fractal
+Serial compute time: 8.4529 s
+gavcaul@cisc372:~/372/hw4$ ./fractal 640 400 64
+Fractal v1.6 [serial]
+Computing 64 frames of 640 by 400 fractal
+Serial compute time: 16.4796 s
+gavcaul@cisc372:~/372/hw4$ ./fractal 1024 768 32
+Fractal v1.6 [serial]
+Computing 32 frames of 1024 by 768 fractal
+Serial compute time: 25.8603 s
+gavcaul@cisc372:~/372/hw4$ ./fractal 1024 768 64
+Fractal v1.6 [serial]
+Computing 64 frames of 1024 by 768 fractal
+Serial compute time: 49.5672 s
+gavcaul@cisc372:~/372/hw4$ ./fractal 320 200 64
+Fractal v1.6 [serial]
+Computing 64 frames of 320 by 200 fractal
+Serial compute time: 4.1159 s

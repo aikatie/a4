@@ -1,0 +1,66 @@
+Script started on Mon Dec  2 14:35:32 2024
+]0;zacksoll@:~/CISC372/Assignment 4[?1034h[zacksoll@r2v01 Assignment 4]$ exitscancel -u zacksollbatch cuda_fractal.batch[6Pcancel -u zacksollexit[K[K./cuda_fractal.batch
+Fractal v1.6 [serial]
+Computing 10 frames of 320 by 200 fractal
+Serial compute time: 0.3677 s
+Fractal v1.6 [parallel]
+Computing 10 frames of 320 by 200 fractal
+Parallel compute time: 0.000895 s
+Fractal v1.6 [serial]
+Computing 60 frames of 320 by 200 fractal
+Serial compute time: 2.2764 s
+Fractal v1.6 [parallel]
+Computing 60 frames of 320 by 200 fractal
+Parallel compute time: 0.003036 s
+Fractal v1.6 [serial]
+Computing 10 frames of 720 by 480 fractal
+Serial compute time: 2.1329 s
+Fractal v1.6 [parallel]
+Computing 10 frames of 720 by 480 fractal
+Parallel compute time: 0.002570 s
+Fractal v1.6 [serial]
+Computing 60 frames of 720 by 480 fractal
+Serial compute time: 11.7671 s
+Fractal v1.6 [parallel]
+Computing 60 frames of 720 by 480 fractal
+Parallel compute time: 0.013062 s
+Fractal v1.6 [serial]
+Computing 10 frames of 1280 by 720 fractal
+Serial compute time: 5.5641 s
+Fractal v1.6 [parallel]
+Computing 10 frames of 1280 by 720 fractal
+Parallel compute time: 0.006113 s
+Fractal v1.6 [serial]
+Computing 60 frames of 1280 by 620 fractal
+Serial compute time: 26.7437 s
+Fractal v1.6 [parallel]
+Computing 60 frames of 1280 by 620 fractal
+Parallel compute time: 0.029428 s
+Fractal v1.6 [serial]
+Computing 5 frames of 1920 by 1080 fractal
+Serial compute time: 6.2561 s
+Fractal v1.6 [parallel]
+Computing 5 frames of 1920 by 1080 fractal
+Parallel compute time: 0.006252 s
+Fractal v1.6 [serial]
+Computing 30 frames of 1920 by 1080 fractal
+Serial compute time: 34.9603 s
+Fractal v1.6 [parallel]
+Computing 30 frames of 1920 by 1080 fractal
+Parallel compute time: 0.034671 s
+Fractal v1.6 [serial]
+Computing 5 frames of 4096 by 2160 fractal
+Serial compute time: 25.1037 s
+Fractal v1.6 [parallel]
+Computing 5 frames of 4096 by 2160 fractal
+Parallel compute time: 0.025006 s
+Fractal v1.6 [serial]
+Computing 20 frames of 4096 by 2160 fractal
+Serial compute time: 98.4704 s
+Fractal v1.6 [parallel]
+Computing 20 frames of 4096 by 2160 fractal
+Parallel compute time: 0.099578 s
+]0;zacksoll@:~/CISC372/Assignment 4[zacksoll@r2v01 Assignment 4]$ exit
+exit
+
+Script done on Mon Dec  2 14:39:52 2024

@@ -1,0 +1,45 @@
+Script started on Sun Dec  1 23:41:53 2024
+]0;clawsonx@:~/Assignment4[?1034h[clawsonx@r2v00 Assignment4]$ srun ./fractal_cuda 1024 768 10
+Fractal v1.6 [CUDA]
+Computing 10 frames of 1024 by 768 fractal
+CUDA compute time: 0.0082 s
+]0;clawsonx@:~/Assignment4[clawsonx@r2v00 Assignment4]$ srun ./fractal_cuda 1280 720 20
+Fractal v1.6 [CUDA]
+Computing 20 frames of 1280 by 720 fractal
+CUDA compute time: 0.0159 s
+]0;clawsonx@:~/Assignment4[clawsonx@r2v00 Assignment4]$ srun ./fractal_cuda 1600 900 30
+Fractal v1.6 [CUDA]
+Computing 30 frames of 1600 by 900 fractal
+CUDA compute time: 0.0347 s
+]0;clawsonx@:~/Assignment4[clawsonx@r2v00 Assignment4]$ srun ./fractal_cuda 1920 180  080 40
+Fractal v1.6 [CUDA]
+Computing 40 frames of 1920 by 1080 fractal
+CUDA compute time: 0.0647 s
+]0;clawsonx@:~/Assignment4[clawsonx@r2v00 Assignment4]$ srun ./fractal_cuda 2560 1440 50
+Fractal v1.6 [CUDA]
+Computing 50 frames of 2560 by 1440 fractal
+CUDA compute time: 0.1432 s
+]0;clawsonx@:~/Assignment4[clawsonx@r2v00 Assignment4]$ srun ./Fr  fractal_cuda 3200 1800 60
+Fractal v1.6 [CUDA]
+Computing 60 frames of 3200 by 1800 fractal
+CUDA compute time: 0.2754 s
+]0;clawsonx@:~/Assignment4[clawsonx@r2v00 Assignment4]$ srun ./F fractal_cuda 3840 2160 30
+Fractal v1.6 [CUDA]
+Computing 30 frames of 3840 by 2160 fractal
+CUDA compute time: 0.2017 s
+]0;clawsonx@:~/Assignment4[clawsonx@r2v00 Assignment4]$ srun ./fractal_cuda 4096 2160 60
+Fractal v1.6 [CUDA]
+Computing 60 frames of 4096 by 2160 fractal
+CUDA compute time: 0.4196 s
+]0;clawsonx@:~/Assignment4[clawsonx@r2v00 Assignment4]$ srun ./fractal_cuda 2048 1080 15
+Fractal v1.6 [CUDA]
+Computing 15 frames of 2048 by 1080 fractal
+CUDA compute time: 0.0272 s
+]0;clawsonx@:~/Assignment4[clawsonx@r2v00 Assignment4]$ ./  srun ./fractal_cuda 1920 1200 45
+Fractal v1.6 [CUDA]
+Computing 45 frames of 1920 by 1200 fractal
+CUDA compute time: 0.0860 s
+]0;clawsonx@:~/Assignment4[clawsonx@r2v00 Assignment4]$ exit
+exit
+
+Script done on Sun Dec  1 23:48:09 2024

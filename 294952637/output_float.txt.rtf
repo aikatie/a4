@@ -1,0 +1,51 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2580
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\csgray\c0;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs22 \cf2 \CocoaLigature0 [sydneymh@r2v01 372Project4]$ srun ./fractal_float 320 200 10\
+Fractal v1.6 [parallel]\
+Computing 10 frames of 320 by 200 fractal\
+Parallel compute time: 0.000060 s\
+[sydneymh@r2v01 372Project4]$ srun ./fractal_float 720 480 20\
+Fractal v1.6 [parallel]\
+Computing 20 frames of 720 by 480 fractal\
+Parallel compute time: 0.000077 s\
+[sydneymh@r2v01 372Project4]$ srun ./fractal_float 854 480 20\
+Fractal v1.6 [parallel]\
+Computing 20 frames of 854 by 480 fractal\
+Parallel compute time: 0.000100 s\
+[sydneymh@r2v01 372Project4]$ srun ./fractal_float 720 576 30\
+Fractal v1.6 [parallel]\
+Computing 30 frames of 720 by 576 fractal\
+Parallel compute time: 0.000047 s\
+[sydneymh@r2v01 372Project4]$ srun ./fractal_float 1280 720 30\
+Fractal v1.6 [parallel]\
+Computing 30 frames of 1280 by 720 fractal\
+Parallel compute time: 0.000054 s\
+[sydneymh@r2v01 372Project4]$ srun ./fractal_float 1440 1080 40\
+Fractal v1.6 [parallel]\
+Computing 40 frames of 1440 by 1080 fractal\
+Parallel compute time: 0.000057 s\
+[sydneymh@r2v01 372Project4]$ srun ./fractal_float 1920 1080 40\
+Fractal v1.6 [parallel]\
+Computing 40 frames of 1920 by 1080 fractal\
+Parallel compute time: 0.000082 s\
+[sydneymh@r2v01 372Project4]$ srun ./fractal_float 1998 1080 50\
+Fractal v1.6 [parallel]\
+Computing 50 frames of 1998 by 1080 fractal\
+Parallel compute time: 0.000098 s\
+[sydneymh@r2v01 372Project4]$ srun ./fractal_float 2048 1080 50\
+Fractal v1.6 [parallel]\
+Computing 50 frames of 2048 by 1080 fractal\
+Parallel compute time: 0.000084 s\
+[sydneymh@r2v01 372Project4]$ srun ./fractal_float 4096 2160 60\
+Fractal v1.6 [parallel]\
+Computing 60 frames of 4096 by 2160 fractal\
+Parallel compute time: 0.000100 s\
+\
+Analysis of Comparison of float version runtimes to double version runtimes:\
+\
+From my comparison of the runtimes of the float version versus the double version on the same increasing problem sizes, I observed that the float version generally resulted in faster runtimes than the double version. A plausible reason that this occurred is because floats take up less space than doubles which changes the maximum block size resulting in a faster runtime. Furthermore, doubles require more resources than floats since they are more precise than floats which causes a slower runtime.}

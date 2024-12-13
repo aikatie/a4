@@ -1,0 +1,53 @@
+Script started on Thu 05 Dec 2024 09:56:42 PM EST
+]0;scottah@login01.darwin:~/lab4[?1034h[(ea-cisc372-schiller:scottah)@login01.darwin lab4]$ exitsalloc --ntasks=1 --cpus-per-task=1 --gpus=1 --partiition=gpu-v100[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csalloc --ntasks=1 --cpus-per-task=1 --gpus=1 --partiition=gpu-v100
+salloc: Granted job allocation 5361886
+salloc: Waiting for resource configuration
+salloc: Nodes r2v02 are ready for job
+]0;scottah@:~/lab4[?1034h[scottah@r2v02 lab4]$ srun ./fractal_cuda 320 200 10
+Fractal v1.6 [parallel]
+Computing 10 frames of 320 by 200 fractal
+Serial compute time: 0.000053 s
+]0;scottah@:~/lab4[scottah@r2v02 lab4]$ srun ./fractal_cuda 320 200 10  32[1P[1P[1P[1@4[1@0[1@00[1P[1P[1P[1@6[1@4[1@0
+Fractal v1.6 [parallel]
+Computing 32 frames of 640 by 400 fractal
+Serial compute time: 0.000039 s
+]0;scottah@:~/lab4[scottah@r2v02 lab4]$ srun ./fractal_cuda 640 400 32  64
+Fractal v1.6 [parallel]
+Computing 64 frames of 640 by 400 fractal
+Serial compute time: 0.000044 s
+]0;scottah@:~/lab4[scottah@r2v02 lab4]$ srun ./fractal_cuda 640 400 64  32[1P[1P[1P[1@7[1@6[1@9[1P[1@8[1P[1P[1P[1@1[1@0[1@2[1@5[1P[1@4
+Fractal v1.6 [parallel]
+Computing 32 frames of 1024 by 768 fractal
+Serial compute time: 0.000041 s
+]0;scottah@:~/lab4[scottah@r2v02 lab4]$ srun ./fractal_cuda 1024 768 32  64
+Fractal v1.6 [parallel]
+Computing 64 frames of 1024 by 768 fractal
+Serial compute time: 0.000040 s
+]0;scottah@:~/lab4[scottah@r2v02 lab4]$ srun ./fractal_cuda 1024 768 64  30          920 1080 30
+Fractal v1.6 [parallel]
+Computing 30 frames of 1920 by 1080 fractal
+Serial compute time: 0.000049 s
+]0;scottah@:~/lab4[scottah@r2v02 lab4]$ srun ./fractal_cuda 1920 1080 30  60
+Fractal v1.6 [parallel]
+Computing 60 frames of 1920 by 1080 fractal
+Serial compute time: 0.000040 s
+]0;scottah@:~/lab4[scottah@r2v02 lab4]$ srun ./fractal_cuda 1920 1080 600[1P[1P[1P[1P[1@2[1@0[1@4[1@8 1080 60
+Fractal v1.6 [parallel]
+Computing 60 frames of 2048 by 1080 fractal
+Serial compute time: 0.000041 s
+]0;scottah@:~/lab4[scottah@r2v02 lab4]$ srun ./fractal_cuda 2048 1080 608[1P[1P[1P[1P[1@4[1@0[1@9[1@6 1080[1P[1P[1P[1P[1@2[1@1[1@6[1@0 60  3- 0
+Fractal v1.6 [parallel]
+Computing 30 frames of 4096 by 2160 fractal
+Serial compute time: 0.000040 s
+]0;scottah@:~/lab4[scottah@r2v02 lab4]$ srun ./fractal_cuda 4096 2160 30  60
+Fractal v1.6 [parallel]
+Computing 60 frames of 4096 by 2160 fractal
+Serial compute time: 0.000040 s
+]0;scottah@:~/lab4[scottah@r2v02 lab4]$ exit
+logout
+salloc: Relinquishing job allocation 5361886
+]0;scottah@login01.darwin:~/lab4[(ea-cisc372-schiller:scottah)@login01.darwin lab4]$ exit
+exit
+
+Script done on Thu 05 Dec 2024 10:00:18 PM EST

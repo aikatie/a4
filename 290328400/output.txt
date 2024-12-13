@@ -1,0 +1,48 @@
+Script started on Fri Nov 15 12:03:46 2024
+]0;kkramer@:~/fractal[?1034h[kkramer@r2v01 fractal]$ srun ./nvFractal 854 480 30
+slurmstepd: error: execve(): /home/3889/fractal/./nvFractal: No such file or directory
+srun: error: r2v01: task 0: Exited with exit code 2
+]0;kkramer@:~/fractal[kkramer@r2v01 fractal]$ srun ./fractal_cuda 854 480 30
+Fractal v1.6 [parallel]
+Computing 30 frames of 854 by 480 fractal
+parallel compute time: 0.8565 s
+]0;kkramer@:~/fractal[kkramer@r2v01 fractal]$ e e srun ./fractal_cuda 854 480 60
+Fractal v1.6 [parallel]
+Computing 60 frames of 854 by 480 fractal
+parallel compute time: 1.0568 s
+]0;kkramer@:~/fractal[kkramer@r2v01 fractal]$ srun ./fractal_cuda 1280 720 30
+Fractal v1.6 [parallel]
+Computing 30 frames of 1280 by 720 fractal
+parallel compute time: 1.0328 s
+]0;kkramer@:~/fractal[kkramer@r2v01 fractal]$ srun ./fractal_cuda 1280 720 60
+Fractal v1.6 [parallel]
+Computing 60 frames of 1280 by 720 fractal
+parallel compute time: 1.0795 s
+]0;kkramer@:~/fractal[kkramer@r2v01 fractal]$ srun ./fractal_cuda 1920 1080 30
+Fractal v1.6 [parallel]
+Computing 30 frames of 1920 by 1080 fractal
+parallel compute time: 1.0776 s
+]0;kkramer@:~/fractal[kkramer@r2v01 fractal]$ srun ./fractal_cuda 1920 1080 60
+Fractal v1.6 [parallel]
+Computing 60 frames of 1920 by 1080 fractal
+parallel compute time: 1.3463 s
+]0;kkramer@:~/fractal[kkramer@r2v01 fractal]$ srun ./fractal_cuda 2560 1440 30
+Fractal v1.6 [parallel]
+Computing 30 frames of 2560 by 1440 fractal
+parallel compute time: 1.0969 s
+]0;kkramer@:~/fractal[kkramer@r2v01 fractal]$ srun ./fractal_cuda 2560 1440 60
+Fractal v1.6 [parallel]
+Computing 60 frames of 2560 by 1440 fractal
+parallel compute time: 1.1669 s
+]0;kkramer@:~/fractal[kkramer@r2v01 fractal]$ srun ./fractal_cuda 4096 2160 30
+Fractal v1.6 [parallel]
+Computing 30 frames of 4096 by 2160 fractal
+parallel compute time: 1.1374 s
+]0;kkramer@:~/fractal[kkramer@r2v01 fractal]$ srun ./fractal_cuda 4096 2160 60
+Fractal v1.6 [parallel]
+Computing 60 frames of 4096 by 2160 fractal
+parallel compute time: 1.3121 s
+]0;kkramer@:~/fractal[kkramer@r2v01 fractal]$ exit
+exit
+
+Script done on Fri Nov 15 12:05:40 2024

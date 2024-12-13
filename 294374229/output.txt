@@ -1,0 +1,45 @@
+Script started on Tue Dec  3 23:22:10 2024
+[edwinzh@r2v01 fractal]$ srun ./fractal_cuda 600 400 30
+Fractal v1.6 [serial]
+Computing 30 frames of 600 by 400 fractal
+Serial compute time: 0.0024 s
+[edwinzh@r2v01 fractal]$ srun ./fractal_cuda 600 400 60
+Fractal v1.6 [serial]
+Computing 60 frames of 600 by 400 fractal
+Serial compute time: 0.0046 s
+[edwinzh@r2v01 fractal]$ srun fractal_cuda 1024 768 32
+Fractal v1.6 [serial]
+Computing 32 frames of 1024 by 768 fractal
+Serial compute time: 0.0085 s
+[edwinzh@r2v01 fractal]$ srun fractal_cuda 1920 1080 32
+Fractal v1.6 [serial]
+Computing 32 frames of 1920 by 1080 fractal
+Serial compute time: 0.0155 s
+[edwinzh@r2v01 fractal]$ srun fractal_cuda 1920 1080 60
+Fractal v1.6 [serial]
+Computing 60 frames of 1920 by 1080 fractal
+Serial compute time: 0.0312 s
+[edwinzh@r2v01 fractal]$ srun fractal_cuda 2000 2000 30
+Fractal v1.6 [serial]
+Computing 30 frames of 2000 by 2000 fractal
+Serial compute time: 0.0503 s
+[edwinzh@r2v01 fractal]$ srun fractal_cuda 2000 2000 60
+Fractal v1.6 [serial]
+Computing 60 frames of 2000 by 2000 fractal
+Serial compute time: 0.0942 s
+[edwinzh@r2v01 fractal]$ srun fractal_cuda 4096 2160 30
+Fractal v1.6 [serial]
+Computing 30 frames of 4096 by 2160 fractal
+Serial compute time: 0.0540 s
+[edwinzh@r2v01 fractal]$ srun fractal_cuda 4096 2160 30
+^[[A^[[AFractal v1.6 [serial]
+Computing 30 frames of 4096 by 2160 fractal
+Serial compute time: 0.0537 s
+[edwinzh@r2v01 fractal]$ srun fractal_cuda 4096 2160 60
+Fractal v1.6 [serial]
+Computing 60 frames of 4096 by 2160 fractal
+Serial compute time: 0.1205 s
+[edwinzh@r2v01 fractal]$ exit
+exit
+
+Script done on Tue Dec  3 23:30:25 2024

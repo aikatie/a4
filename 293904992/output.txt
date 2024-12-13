@@ -1,0 +1,59 @@
+Script started on Wed Nov 20 18:45:27 2024
+]0;juliusnm@:~/fractal2[?1034h[juliusnm@r2v01 fractal2]$ srun frac    ./fractal_cuda[K[juliusnm@r2v01 fractal2]$ srun ./fractal_cuda[K[juliusnm@r2v01 fractal2]$ srun ./fractal_cuda[K[juliusnm@r2v01 fractal2]$ srun ./fractal_cuda[K[juliusnm@r2v01 fractal2]$ srun ./fractal_cuda 120 40 60
+Fractal v1.6 [serial]
+Computing 60 frames of 120 by 40 fractal
+Parallel compute time: 0.001486 s
+]0;juliusnm@:~/fractal2[juliusnm@r2v01 fractal2]$ srun ./fractal_cuda 120 40 60[1P[1@320 4[1P[1@20[1@0
+Fractal v1.6 [serial]
+Computing 60 frames of 320 by 200 fractal
+Parallel compute time: 0.004903 s
+]0;juliusnm@:~/fractal2[juliusnm@r2v01 fractal2]$ srun ./fractal_cuda 320 200 6032[1P[1P[1@6[1@40 2[1P[1@40[1P[1@44[1P0[1@0
+Fractal v1.6 [serial]
+Computing 60 frames of 640 by 400 fractal
+Parallel compute time: 0.016616 s
+]0;juliusnm@:~/fractal2[juliusnm@r2v01 fractal2]$ ls
+fractal.cu	 fractal1011.bmp  fractal1024.bmp  fractal1037.bmp  fractal1050.bmp
+fractal.h	 fractal1012.bmp  fractal1025.bmp  fractal1038.bmp  fractal1051.bmp
+fractal1000.bmp  fractal1013.bmp  fractal1026.bmp  fractal1039.bmp  fractal1052.bmp
+fractal1001.bmp  fractal1014.bmp  fractal1027.bmp  fractal1040.bmp  fractal1053.bmp
+fractal1002.bmp  fractal1015.bmp  fractal1028.bmp  fractal1041.bmp  fractal1054.bmp
+fractal1003.bmp  fractal1016.bmp  fractal1029.bmp  fractal1042.bmp  fractal1055.bmp
+fractal1004.bmp  fractal1017.bmp  fractal1030.bmp  fractal1043.bmp  fractal1056.bmp
+fractal1005.bmp  fractal1018.bmp  fractal1031.bmp  fractal1044.bmp  fractal1057.bmp
+fractal1006.bmp  fractal1019.bmp  fractal1032.bmp  fractal1045.bmp  fractal1058.bmp
+fractal1007.bmp  fractal1020.bmp  fractal1033.bmp  fractal1046.bmp  fractal1059.bmp
+fractal1008.bmp  fractal1021.bmp  fractal1034.bmp  fractal1047.bmp  fractal_cuda
+fractal1009.bmp  fractal1022.bmp  fractal1035.bmp  fractal1048.bmp  output.txt
+fractal1010.bmp  fractal1023.bmp  fractal1036.bmp  fractal1049.bmp  timer.h
+]0;juliusnm@:~/fractal2[juliusnm@r2v01 fractal2]$ lssrun ./fractal_cuda 640 400 60[1P[1P[1@7[1@20 4[1P0[1P[1@6[1@4
+Fractal v1.6 [serial]
+Computing 60 frames of 720 by 640 fractal
+Parallel compute time: 0.024323 s
+]0;juliusnm@:~/fractal2[juliusnm@r2v01 fractal2]$ srun ./fractal_cuda 720 640 60[1P[1P[1@10[1@0[1@2[1@40[1P 640[1P[1P[1P[1@7[1@6[1@9[1@=[1@8[1P[1P[1@8[1P[1P[1@8
+Fractal v1.6 [serial]
+Computing 60 frames of 1024 by 768 fractal
+Parallel compute time: 0.040255 s
+]0;juliusnm@:~/fractal2[juliusnm@r2v01 fractal2]$ srun ./fractal_cuda 1024 768 604[1P[1P[1P[1@2[1@8[1@0[1P[1@0 768[1P[1P[1P[1@7[1@2[1@0
+Fractal v1.6 [serial]
+Computing 60 frames of 1280 by 720 fractal
+Parallel compute time: 0.049139 s
+]0;juliusnm@:~/fractal2[juliusnm@r2v01 fractal2]$ srun ./fractal_cuda 1280 720 60 128[1P[1P[1@9[1@20 72[1P[1P[1@10[1@0[1@8
+Fractal v1.6 [serial]
+Computing 60 frames of 1920 by 1080 fractal
+Parallel compute time: 0.105527 s
+]0;juliusnm@:~/fractal2[juliusnm@r2v01 fractal2]$ srun ./fractal_cuda 1920 1080 60[1P[1P[1P[1P[1@2[1@0[1@4[1@8 108[1P[1@6[1P[1@8
+Fractal v1.6 [serial]
+Computing 60 frames of 2048 by 1080 fractal
+Parallel compute time: 0.112846 s
+]0;juliusnm@:~/fractal2[juliusnm@r2v01 fractal2]$ srun ./fractal_cuda 2048 1080 608[1P[1P[1P[1@5[1@6[1@0 108[1P[1P[1@4[1@4
+Fractal v1.6 [serial]
+Computing 60 frames of 2560 by 1440 fractal
+Parallel compute time: 0.164296 s
+]0;juliusnm@:~/fractal2[juliusnm@r2v01 fractal2]$ srun ./fractal_cuda 2560 1440 60[1P[1P[1P[1P[1@4[1@0[1@9[1@6 1440 [1P[1P[1P[1P[1@2[1@1[1@6[1@0
+Fractal v1.6 [serial]
+Computing 60 frames of 4096 by 2160 fractal
+Parallel compute time: 0.345481 s
+]0;juliusnm@:~/fractal2[juliusnm@r2v01 fractal2]$ exit
+exit
+e
+Script done on Wed Nov 20 18:50:13 2024

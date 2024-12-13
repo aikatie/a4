@@ -1,0 +1,7 @@
+[aoster@r2v02 fractal_movie]$ srun ./fractal_cuda 320 200 25
+Fractal v1.6 [serial]
+Computing 25 frames of 320 by 200 fractal
+Parrallel compute time: 0.0020 s
+exit
+
+Script done on Tue Dec  3 00:28:40 2024

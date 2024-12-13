@@ -1,0 +1,30 @@
+Script started on Thu Dec  5 23:22:51 2024
+]0;sxchetti@:~/fractal[?1034h[sxchetti@r2v00 fractal]$ exitnvcc -O3 fractal.cu -o fractal_cuda[sxchetti@r2v00 fractal]$ [21Pvim fractal.culs[Ksrun ./fractal_cuda 640 400 32          320 200 10
+Fractal v1.0 [cuda]
+Computing 10 frames of 320 by 200 fractal
+Successfully allocated memory.
+Cuda time: 0.0016 s
+]0;sxchetti@:~/fractal[sxchetti@r2v00 fractal]$ srun ./fractal_cuda 320 200 10          640 400 32
+Fractal v1.0 [cuda]
+Computing 32 frames of 640 by 400 fractal
+Successfully allocated memory.
+Cuda time: 0.0111 s
+]0;sxchetti@:~/fractal[sxchetti@r2v00 fractal]$ srun ./fractal_cuda 640 400 32  64
+Fractal v1.0 [cuda]
+Computing 64 frames of 640 by 400 fractal
+Successfully allocated memory.
+Cuda time: 0.0212 s
+]0;sxchetti@:~/fractal[sxchetti@r2v00 fractal]$ srun ./fractal_cuda 640 400 64          1024 768 32
+Fractal v1.0 [cuda]
+Computing 32 frames of 1024 by 768 fractal
+Successfully allocated memory.
+Cuda time: 0.0292 s
+]0;sxchetti@:~/fractal[sxchetti@r2v00 fractal]$ srun ./fractal_cuda 1024 768 32  64
+Fractal v1.0 [cuda]
+Computing 64 frames of 1024 by 768 fractal
+Successfully allocated memory.
+Cuda time: 0.0551 s
+]0;sxchetti@:~/fractal[sxchetti@r2v00 fractal]$ exit
+exit
+
+Script done on Thu Dec  5 23:24:19 2024

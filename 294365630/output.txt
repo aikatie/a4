@@ -1,0 +1,40 @@
+[zreggio@r2v01 ~]$ srun ./fractal 300 120 10
+Fractal v1.6 [CUDA]
+Computing 10 frames of 300 by 120 fractal
+CUDA compute time: 0.000714 s
+[zreggio@r2v01 ~]$ srun ./fractal 300 120 30
+Fractal v1.6 [CUDA]
+Computing 30 frames of 300 by 120 fractal
+CUDA compute time: 0.001405 s
+[zreggio@r2v01 ~]$ srun ./fractal 300 120 60
+Fractal v1.6 [CUDA]
+Computing 60 frames of 300 by 120 fractal
+CUDA compute time: 0.002637 s
+[zreggio@r2v01 ~]$ srun ./fractal 1920 1080 10
+Fractal v1.6 [CUDA]
+Computing 10 frames of 1920 by 1080 fractal
+CUDA compute time: 0.018769 s
+[zreggio@r2v01 ~]$ srun ./fractal 1920 1080 30
+Fractal v1.6 [CUDA]
+Computing 30 frames of 1920 by 1080 fractal
+CUDA compute time: 0.049602 s
+[zreggio@r2v01 ~]$ srun ./fractal 1920 1080 60
+Fractal v1.6 [CUDA]
+Computing 60 frames of 1920 by 1080 fractal
+CUDA compute time: 0.097630 s
+[zreggio@r2v01 ~]$ srun ./fractal 2560 1440 60
+Fractal v1.6 [CUDA]
+Computing 60 frames of 2560 by 1440 fractal
+CUDA compute time: 0.172135 s
+[zreggio@r2v01 ~]$ srun ./fractal 3840 2160 10
+Fractal v1.6 [CUDA]
+Computing 10 frames of 3840 by 2160 fractal
+CUDA compute time: 0.064093 s
+[zreggio@r2v01 ~]$ srun ./fractal 3840 2160 30
+Fractal v1.6 [CUDA]
+Computing 30 frames of 3840 by 2160 fractal
+CUDA compute time: 0.196376 s
+[zreggio@r2v01 ~]$ srun ./fractal 3840 2160 60
+Fractal v1.6 [CUDA]
+Computing 60 frames of 3840 by 2160 fractal
+CUDA compute time: 0.376335 s

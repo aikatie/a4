@@ -1,0 +1,55 @@
+Script started on Mon Dec  2 23:21:00 2024
+[johnma@r2v02 fractal]$ srun ./fractal_cuda 512 288 60
+Fractal v1.0 [cuda]
+Computing 60 frames of 512 by 288 fractal
+Successfully allocated device memory.
+Cuda compute time: 0.0144 s
+[johnma@r2v02 fractal]$ srun ./fractal_cuda 922 518 60
+Fractal v1.0 [cuda]
+Computing 60 frames of 922 by 518 fractal
+Successfully allocated device memory.
+Cuda compute time: 0.0350 s
+[johnma@r2v02 fractal]$ srun ./fractal_cuda 1331 747 60
+Fractal v1.0 [cuda]
+Computing 60 frames of 1331 by 747 fractal
+Successfully allocated device memory.
+Cuda compute time: 0.0665 s
+[johnma@r2v02 fractal]$ srun ./fractal_cuda 1740 976 60
+Fractal v1.0 [cuda]
+Computing 60 frames of 1740 by 976 fractal
+Successfully allocated device memory.
+Cuda compute time: 0.1090 s
+[johnma@r2v02 fractal]$ srun ./fractal_cuda 2150 1205 60
+Fractal v1.0 [cuda]
+Computing 60 frames of 2150 by 1205 fractal
+Successfully allocated device memory.
+Cuda compute time: 0.1600 s
+[johnma@r2v02 fractal]$ srun ./fractal_cuda 2559 1434 60
+Fractal v1.0 [cuda]
+Computing 60 frames of 2559 by 1434 fractal
+Successfully allocated device memory.
+Cuda compute time: 0.2240 s
+[johnma@r2v02 fractal]$ srun ./fractal_cuda 2969 1663 60
+Fractal v1.0 [cuda]
+Computing 60 frames of 2969 by 1663 fractal
+Successfully allocated device memory.
+Cuda compute time: 0.2920 s
+[johnma@r2v02 fractal]$ srun ./fractal_cuda 3378 1892 60
+Fractal v1.0 [cuda]
+Computing 60 frames of 3378 by 1892 fractal
+Successfully allocated device memory.
+Cuda compute time: 0.3770 s
+[johnma@r2v02 fractal]$ srun ./fractal_cuda 3787 2121 60
+Fractal v1.0 [cuda]
+Computing 60 frames of 3787 by 2121 fractal
+Successfully allocated device memory.
+Cuda compute time: 0.4676 s
+[johnma@r2v02 fractal]$ srun ./fractal_cuda 4096 2160 60
+Fractal v1.0 [cuda]
+Computing 60 frames of 4096 by 2160 fractal
+Successfully allocated device memory.
+Cuda compute time: 0.5035 s
+[johnma@r2v02 fractal]$ exit e 
+exit
+
+Script done on Mon Dec  2 23:21:34 2024

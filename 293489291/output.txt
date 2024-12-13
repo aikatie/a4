@@ -1,0 +1,40 @@
+Script started on Fri Nov 29 17:04:52 2024
+]0;khinton@:~/Documents[?1034h[khinton@r2v00 Documents]$ exit./fractal_cuda 3840 2160 60302560 1440 60301920 1080 6030[1P280 720 6030[1P720 480 60ls[K./fractal_cuda 720 480 30[Kls[Knvcc -O3 fractal.cu -o fractal_cuda
+sh: nvcc: command not found
+]0;khinton@:~/Documents[khinton@r2v00 Documents]$ nvcc -O3 fractal.cu -o fractal_cuda[khinton@r2v00 Documents]$ exit[K./fractal_cuda 3840 2160 60302560 1440 60301920 1080 6030[1P280 720 6030[1P720 480 60ls[K./fractal_cuda 720 480 30[Kls[Knvcc -O3 fractal.cu -o fractal_cuda [Kvpkg_require cuda
+Adding package `cuda/11.3.1-465.19.01` to your environment
+]0;khinton@:~/Documents[khinton@r2v00 Documents]$ vpkg_require cuda[18@nvcc -O3 fractal.cu -o fractal_cuda
+]0;khinton@:~/Documents[khinton@r2v00 Documents]$ nvcc -O3 fractal.cu -o fractal_cuda[khinton@r2v00 Documents]$ [18Pvpkg_require cuda[18@nvcc -O3 fractal.cu -o fractal_cuda[khinton@r2v00 Documents]$ exit[K./fractal_cuda 3840 2160 60302560 1440 60301920 1080 6030[1P280 720 6030[1P720 480 60ls[K./fractal_cuda 720 480 60[1@1280 720 30[1P720 480 60ls[K./fractal_cuda 720 480 60  30
+Computing 30 frames of 720 by 480 fractal
+Parallelized compute time: 0.005303 s
+]0;khinton@:~/Documents[khinton@r2v00 Documents]$ ./fractal_cuda 720 480 30nvcc -O3 fractal.cu -o fractal_cuda[khinton@r2v00 Documents]$ [10P./fractal_cuda 720 480 30  60
+Computing 60 frames of 720 by 480 fractal
+Parallelized compute time: 0.009980 s
+]0;khinton@:~/Documents[khinton@r2v00 Documents]$ ./fractal_cuda 720 480 6030nvcc -O3 fractal.cu -o fractal_cuda[khinton@r2v00 Documents]$ [18Pvpkg_require cuda[18@nvcc -O3 fractal.cu -o fractal_cuda[khinton@r2v00 Documents]$ exit[K./fractal_cuda 3840 2160 60302560 1440 60301920 1080 6030[1P280 720 6030[1P720 480 60[1@1280 720 30
+Computing 30 frames of 1280 by 720 fractal
+Parallelized compute time: 0.013027 s
+]0;khinton@:~/Documents[khinton@r2v00 Documents]$ ./fractal_cuda 1280 720 30[1P720 480 603060[1@1280 720 30[K./fractal_cuda 1280 720 30[1P720 480 6030nvcc -O3 fractal.cu -o fractal_cuda[khinton@r2v00 Documents]$ [18Pvpkg_require cuda[18@nvcc -O3 fractal.cu -o fractal_cuda[khinton@r2v00 Documents]$ exit[K./fractal_cuda 3840 2160 60302560 1440 60301920 1080 6030[1P280 720 60
+Computing 60 frames of 1280 by 720 fractal
+Parallelized compute time: 0.025241 s
+]0;khinton@:~/Documents[khinton@r2v00 Documents]$ ./fractal_cuda 1280 720 6030[1P720 480 6030nvcc -O3 fractal.cu -o fractal_cuda[khinton@r2v00 Documents]$ [18Pvpkg_require cuda[18@nvcc -O3 fractal.cu -o fractal_cuda[khinton@r2v00 Documents]$ exit[K./fractal_cuda 3840 2160 60302560 1440 60301920 1080 6030[1P280 720 60[1@920 1080 30
+Computing 30 frames of 1920 by 1080 fractal
+Parallelized compute time: 0.028472 s
+]0;khinton@:~/Documents[khinton@r2v00 Documents]$ ./fractal_cuda 1920 1080 30[1P280 720 6030[1P720 480 6030nvcc -O3 fractal.cu -o fractal_cuda[khinton@r2v00 Documents]$ [18Pvpkg_require cuda[18@nvcc -O3 fractal.cu -o fractal_cuda[khinton@r2v00 Documents]$ exit[K./fractal_cuda 3840 2160 60302560 1440 60301920 1080 60
+Computing 60 frames of 1920 by 1080 fractal
+Parallelized compute time: 0.055311 s
+]0;khinton@:~/Documents[khinton@r2v00 Documents]$ ./fractal_cuda 1920 1080 6030[1P280 720 6030[1P720 480 6030nvcc -O3 fractal.cu -o fractal_cuda[khinton@r2v00 Documents]$ [18Pvpkg_require cuda[18@nvcc -O3 fractal.cu -o fractal_cuda[khinton@r2v00 Documents]$ exit[K./fractal_cuda 3840 2160 60302560 1440 6030
+Computing 30 frames of 2560 by 1440 fractal
+Parallelized compute time: 0.049690 s
+]0;khinton@:~/Documents[khinton@r2v00 Documents]$ ./fractal_cuda 2560 1440 301920 1080 6030[1P280 720 6030[1P720 480 6030nvcc -O3 fractal.cu -o fractal_cuda[khinton@r2v00 Documents]$ [18Pvpkg_require cuda[18@nvcc -O3 fractal.cu -o fractal_cuda[khinton@r2v00 Documents]$ exit[K./fractal_cuda 3840 2160 60302560 1440 60
+Computing 60 frames of 2560 by 1440 fractal
+Parallelized compute time: 0.096690 s
+]0;khinton@:~/Documents[khinton@r2v00 Documents]$ ./fractal_cuda 2560 1440 60301920 1080 6030[1P280 720 6030[1P720 480 6030nvcc -O3 fractal.cu -o fractal_cuda[khinton@r2v00 Documents]$ [18Pvpkg_require cuda[18@nvcc -O3 fractal.cu -o fractal_cuda[khinton@r2v00 Documents]$ exit[K./fractal_cuda 3840 2160 6030
+Computing 30 frames of 3840 by 2160 fractal
+Parallelized compute time: 0.108050 s
+]0;khinton@:~/Documents[khinton@r2v00 Documents]$ ./fractal_cuda 3840 2160 302560 1440 60301920 1080 6030[1P280 720 6030[1P720 480 6030nvcc -O3 fractal.cu -o fractal_cuda[khinton@r2v00 Documents]$ [18Pvpkg_require cuda[18@nvcc -O3 fractal.cu -o fractal_cuda[khinton@r2v00 Documents]$ exit[K./fractal_cuda 3840 2160 60
+Computing 60 frames of 3840 by 2160 fractal
+Parallelized compute time: 0.201886 s
+]0;khinton@:~/Documents[khinton@r2v00 Documents]$ ./fractal_cuda 3840 2160 60302560 1440 60301920 1080 6030[1P280 720 6030[1P720 480 6030nvcc -O3 fractal.cu -o fractal_cuda[khinton@r2v00 Documents]$ [18Pvpkg_require cuda[18@nvcc -O3 fractal.cu -o fractal_cuda[khinton@r2v00 Documents]$ exit[K
+exit
+
+Script done on Fri Nov 29 17:07:23 2024

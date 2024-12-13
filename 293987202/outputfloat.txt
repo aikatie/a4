@@ -1,0 +1,8 @@
+Script started on Mon Dec  2 20:57:48 2024
+]0;saakethp@:~/fractal[?1034h[saakethp@r2v00 fractal]$ srun fractal_cuda 4096 2160 60
+Computing 60 frames of 4096 by 2160 fractal
+Parallel compute time: 0.217925 s
+]0;saakethp@:~/fractal[saakethp@r2v00 fractal]$ exit
+exit
+
+Script done on Mon Dec  2 20:57:54 2024

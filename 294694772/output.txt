@@ -1,0 +1,57 @@
+Script started on Wed Dec  4 21:53:53 2024
+]0;kaldevas@:~/fractal[?1034h[kaldevas@r2v02 fractal]$ lsnvcc -O3 fractal.cu -o fractal_cuda[kaldevas@r2v02 fractal]$ [21Pvpkg_rollback nvcc -O3 fractal.cu -o fractal_cuda[kaldevas@r2v02 fractal]$ [12Pvpkg_require gcc/12.2.0[6Pcuda[18@nvcc -O3 fractal.cu -o fractal_cuda[kaldevas@r2v02 fractal]$ ls[Kcd fractalls[Kworkgroup -g ea-cisc372-schiller[kaldevas@r2v02 fractal]$ history[Knvcc -O3 fractal.cu -o fractal_cuda[1P -o fractal_cuda[2P -o fractal_cuda[2@.c -o fractal_cuda[1@u -o fractal_cuda[kaldevas@r2v02 fractal]$ history[Kworkgroup -g ea-cisc372-schiller[kaldevas@r2v02 fractal]$ ls[Kcd fractalls[Knvcc -O3 fractal.cu -o fractal_cuda[kaldevas@r2v02 fractal]$ [18Pvpkg_require cudagcc/12.2.0nvcc -O3 fractal.cu -o fractal_cuda[kaldevas@r2v02 fractal]$ [21Pvpkg_rollback nvcc -O3 fractal.cu -o fractal_cuda[kaldevas@r2v02 fractal]$ ls[K[Klsnvcc -O3 fractal.cu -o fractal_cuda[kaldevas@r2v02 fractal]$ [21Pvpkg_rollback nvcc -O3 fractal.cu -o fractal_cuda[kaldevas@r2v02 fractal]$ [12Pvpkg_require gcc/12.2.0[6Pcuda                 srun fractal_cuda_  640 400 30
+Fractal v1.6 [CUDA]
+Computing 30 frames of 640 by 400 fractal
+Computed 30 frames in 0.0090 seconds
+]0;kaldevas@:~/fractal[kaldevas@r2v02 fractal]$ srun fractal_cuda 640 400 30[kaldevas@r2v02 fractal]$ ls[Knvcc -O3 fractal.cu -o fractal_cuda[kaldevas@r2v02 fractal]$ [21Pvpkg_rollback nvcc -O3 fractal.cu -o fractal_cuda[kaldevas@r2v02 fractal]$ [12Pvpkg_require gcc/12.2.0                       vi output.txt
+[?1049h[?1h=[1;30r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[30;1H"output.txt" 0L, 0C[2;1H[94m~                                                                                                                       [3;1H~                                                                                                                       [4;1H~                                                                                                                       [5;1H~                                                                                                                       [6;1H~                                                                                                                       [7;1H~                                                                                                                       [8;1H~                                                                                                                       [9;1H~                                                                                                                       [10;1H~                                                                                                                       [11;1H~                                                                                                                       [12;1H~                                                                                                                       [13;1H~                                                                                                                       [14;1H~                                                                                                                       [15;1H~                                                                                                                       [16;1H~                                                                                                                       [17;1H~                                                                                                                       [18;1H~                                                                                                                       [19;1H~                                                                                                                       [20;1H~                                                                                                                       [21;1H~                                                                                                                       [22;1H~                                                                                                                       [23;1H~                                                                                                                       [24;1H~                                                                                                                       [25;1H~                                                                                                                       [26;1H~                                                                                                                       [27;1H~                                                                                                                       [28;1H~                                                                                                                       [29;1H~                                                                                                                       [1;1H[?12l[?25h[?25l[m[30;1H[K[30;1H:[?12l[?25hq[?25l[30;1H[K[30;1H[?1l>[?12l[?25h[?1049l]0;kaldevas@:~/fractal[kaldevas@r2v02 fractal]$ ls
+fractal  fractal.cu  fractal.h	fractal_cuda  output.txt  timer.h
+]0;kaldevas@:~/fractal[kaldevas@r2v02 fractal]$ lsvi output.txtsrun fractal_cuda 640 400 30
+Fractal v1.6 [CUDA]
+Computing 30 frames of 640 by 400 fractal
+Computed 30 frames in 0.0091 seconds
+]0;kaldevas@:~/fractal[kaldevas@r2v02 fractal]$ clear
+[3;J[H[2J]0;kaldevas@:~/fractal[kaldevas@r2v02 fractal]$ srun fractal_cuda 640 400 30
+Fractal v1.6 [CUDA]
+Computing 30 frames of 640 by 400 fractal
+Computed 30 frames in 0.0091 seconds
+]0;kaldevas@:~/fractal[kaldevas@r2v02 fractal]$ srun fractal_cuda 640 400 30  60
+Fractal v1.6 [CUDA]
+Computing 60 frames of 640 by 400 fractal
+Computed 60 frames in 0.0159 seconds
+]0;kaldevas@:~/fractal[kaldevas@r2v02 fractal]$ srun fractal_cuda 640 400 60          1024 768 30
+Fractal v1.6 [CUDA]
+Computing 30 frames of 1024 by 768 fractal
+Computed 30 frames in 0.0247 seconds
+]0;kaldevas@:~/fractal[kaldevas@r2v02 fractal]$ srun fractal_cuda 1024 768 30  60
+Fractal v1.6 [CUDA]
+Computing 60 frames of 1024 by 768 fractal
+Computed 60 frames in 0.0431 seconds
+]0;kaldevas@:~/fractal[kaldevas@r2v02 fractal]$ srun fractal_cuda 1024 768 60             640 480 30
+Fractal v1.6 [CUDA]
+Computing 30 frames of 640 by 480 fractal
+Computed 30 frames in 0.0097 seconds
+]0;kaldevas@:~/fractal[kaldevas@r2v02 fractal]$ srun fractal_cuda 640 480 30  60
+Fractal v1.6 [CUDA]
+Computing 60 frames of 640 by 480 fractal
+Computed 60 frames in 0.0186 seconds
+]0;kaldevas@:~/fractal[kaldevas@r2v02 fractal]$ ./fractal 640 400 30          409             srun fractal_cuda 640 480 603060          4096 2160 30
+Fractal v1.6 [CUDA]
+Computing 30 frames of 4096 by 2160 fractal
+Computed 30 frames in 0.2235 seconds
+]0;kaldevas@:~/fractal[kaldevas@r2v02 fractal]$ srun fractal_cuda 4096 2160 30  60
+Fractal v1.6 [CUDA]
+Computing 60 frames of 4096 by 2160 fractal
+Computed 60 frames in 0.4375 seconds
+]0;kaldevas@:~/fractal[kaldevas@r2v02 fractal]$ srun fractal_cuda 4096 2160 60            800 600 30
+Fractal v1.6 [CUDA]
+Computing 30 frames of 800 by 600 fractal
+Computed 30 frames in 0.0138 seconds
+]0;kaldevas@:~/fractal[kaldevas@r2v02 fractal]$ srun fractal_cuda 800 600 30  60
+Fractal v1.6 [CUDA]
+Computing 60 frames of 800 by 600 fractal
+Computed 60 frames in 0.0289 seconds
+]0;kaldevas@:~/fractal[kaldevas@r2v02 fractal]$ exit exit     
+exit
+
+Script done on Wed Dec  4 22:01:26 2024

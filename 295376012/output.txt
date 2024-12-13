@@ -1,0 +1,9 @@
+
+Script started on Fri Dec  6 19:24:28 2024
+^[]0;rabcol@:~^G^[[?1034h[rabcol@r2v02 ~]$ srun fractal_cuda.cu^H ^H^H ^H^H ^H^H^H^H^H^H^H^H^H^H^H^H^H^H ^[[1@.^[[1@/fr$Fractal v1.6 [CUDA]
+Computing 60 frames of 4096 by 2160 fractal
+CUDA compute time: 0.401767 s
+^[]0;rabcol@:~^G[rabcol@r2v02 ~]$ exit
+exit
+
+Script done on Fri Dec  6 19:25:36 2024

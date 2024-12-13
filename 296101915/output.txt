@@ -1,0 +1,72 @@
+[(ea-cisc372-schiller:lponik)@login00.darwin fractal]$ salloc --ntasks=1 --cpus-per-task=1 --gpus=1 --partition=gpu-v100
+salloc: Pending job allocation 5364127
+salloc: job 5364127 queued and waiting for resources
+salloc: job 5364127 has been allocated resources
+salloc: Granted job allocation 5364127
+salloc: Waiting for resource configuration
+salloc: Nodes r2v00 are ready for job
+[lponik@r2v00 fractal]$ srun ./fractal_cuda 320 200 10 
+Fractal v1.6 [CUDA]
+Computing 10 frames of 320 by 200 fractal
+CUDA compute time: 0.001149 s
+[lponik@r2v00 fractal]$ srun ./fractal_cuda 640 400 20
+Fractal v1.6 [CUDA]
+Computing 20 frames of 640 by 400 fractal
+CUDA compute time: 0.005146 s
+[lponik@r2v00 fractal]$ srun ./fractal_cuda 800 600 30 
+Fractal v1.6 [CUDA]
+Computing 30 frames of 800 by 600 fractal
+CUDA compute time: 0.013167 s
+[lponik@r2v00 fractal]$ srun ./fractal_cuda 1024 768 40
+Fractal v1.6 [CUDA]
+Computing 40 frames of 1024 by 768 fractal
+CUDA compute time: 0.026140 s
+[lponik@r2v00 fractal]$ srun ./fractal_cuda 1280 720 50
+Fractal v1.6 [CUDA]
+Computing 50 frames of 1280 by 720 fractal
+CUDA compute time: 0.037197 s
+[lponik@r2v00 fractal]$ srun ./fractal_cuda 1920 1080 60
+Fractal v1.6 [CUDA]
+Computing 60 frames of 1920 by 1080 fractal
+CUDA compute time: 0.094339 s
+[lponik@r2v00 fractal]$ srun ./fractal_cuda 2560 1440 60
+Fractal v1.6 [CUDA]
+Computing 60 frames of 2560 by 1440 fractal
+CUDA compute time: 0.164039 s
+[lponik@r2v00 fractal]$ srun ./fractal_cuda 3200 1800 60
+Fractal v1.6 [CUDA]
+Computing 60 frames of 3200 by 1800 fractal
+CUDA compute time: 0.252533 s
+[lponik@r2v00 fractal]$ srun ./fractal_cuda 3840 2160 60
+Fractal v1.6 [CUDA]
+Computing 60 frames of 3840 by 2160 fractal
+CUDA compute time: 0.358378 s
+[lponik@r2v00 fractal]$ srun ./fractal_cuda 4096 2160 60
+Fractal v1.6 [CUDA]
+Computing 60 frames of 4096 by 2160 fractal
+CUDA compute time: 0.379965 s
+[lponik@r2v00 fractal]$ srun ./fractal_cuda 640 400 32
+Fractal v1.6 [CUDA]
+Computing 32 frames of 640 by 400 fractal
+CUDA compute time: 0.008470 s
+[lponik@r2v00 fractal]$ srun ./fractal_cuda 640 400 64
+Fractal v1.6 [CUDA]
+Computing 64 frames of 640 by 400 fractal
+CUDA compute time: 0.016290 s
+[lponik@r2v00 fractal]$ srun ./fractal_cuda 1024 768 32
+Fractal v1.6 [CUDA]
+Computing 32 frames of 1024 by 768 fractal
+CUDA compute time: 0.021442 s
+[lponik@r2v00 fractal]$ srun ./fractal_cuda 1024 768 64
+Fractal v1.6 [CUDA]
+Computing 64 frames of 1024 by 768 fractal
+CUDA compute time: 0.039715 s
+[lponik@r2v00 fractal]$ exit
+logout
+salloc: Relinquishing job allocation 5364127
+[(ea-cisc372-schiller:lponik)@login00.darwin fractal]$ exit
+logout
+[lponik@login00.darwin fractal]$ exit
+logout
+Connection to darwin.hpc.udel.edu closed.
+(base) loganponik@wifi-roaming-128-4-119-240 ~ % 

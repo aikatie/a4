@@ -1,0 +1,9 @@
+Script started on Fri Dec  6 16:55:21 2024
+^[]0;dylanwho@:~^G^[[?1034h[dylanwho@r2v02 ~]$ srun ./fractal_cuda 320 ^H ^H^H ^H^H ^H^H ^H4096 2160 60
+Fractal v1.6 [CUDA]
+Computing 60 frames of 4096 by 2160 fractal
+CUDA compute time: 0.405960 s
+^[]0;dylanwho@:~^G[dylanwho@r2v02 ~]$ exit
+exit
+
+Script done on Fri Dec  6 16:55:44 2024

@@ -1,0 +1,29 @@
+Script started on Thu Dec  5 18:42:33 2024
+]0;murphyme@:~/fractal[?1034h[murphyme@r2v02 fractal]$ exit[13@script output.txtexit[K[2@scriptrun ./frac 4096 2160 603840 2160 502560 1440 401920 1080 30[1P280 720 20[1P640 400 10exit[K[13@script output.txtexit[Ksrun ./frac 640 400 10
+Fractal v1.6 [CUDA]
+Computing 10 frames of 640 by 400 fractal
+CUDA compute time: 0.0018 s
+]0;murphyme@:~/fractal[murphyme@r2v02 fractal]$ srun ./frac 640 400 10exit[K[13@script output.txtexit[K[2@scriptrun ./frac 4096 2160 603840 2160 502560 1440 401920 1080 30[1P280 720 20[1P640 400 10exit[K[13@script output.txtexit[Ksrun ./frac 640 400 10[1@1280 720 20
+Fractal v1.6 [CUDA]
+Computing 20 frames of 1280 by 720 fractal
+CUDA compute time: 0.0092 s
+]0;murphyme@:~/fractal[murphyme@r2v02 fractal]$ srun ./frac 1280 720 20[1P640 400 10exit[K[13@script output.txtexit[K[2@scriptrun ./frac 4096 2160 603840 2160 502560 1440 401920 1080 30[1P280 720 20[1P640 400 10[1@1280 720 20[1@920 1080 30
+Fractal v1.6 [CUDA]
+Computing 30 frames of 1920 by 1080 fractal
+CUDA compute time: 0.0285 s
+]0;murphyme@:~/fractal[murphyme@r2v02 fractal]$ srun ./frac 1920 1080 30[1P280 720 20[1P640 400 10exit[K[13@script output.txtexit[K[2@scriptrun ./frac 4096 2160 603840 2160 502560 1440 401920 1080 302560 1440 40
+Fractal v1.6 [CUDA]
+Computing 40 frames of 2560 by 1440 fractal
+CUDA compute time: 0.0642 s
+]0;murphyme@:~/fractal[murphyme@r2v02 fractal]$ srun ./frac 2560 1440 401920 1080 30[1P280 720 20[1P640 400 10exit[K[13@script output.txtexit[K[13@script output.txtexit[Ksrun ./frac 640 400 10[1@1280 720 20[1@920 1080 302560 1440 40[Ksrun ./frac 2560 1440 401920 1080 30[1P280 720 20[1P640 400 10exit[K[13@script output.txtexit[K[2@scriptrun ./frac 4096 2160 603840 2160 502560 1440 403840 2160 50
+Fractal v1.6 [CUDA]
+Computing 50 frames of 3840 by 2160 fractal
+CUDA compute time: 0.1707 s
+]0;murphyme@:~/fractal[murphyme@r2v02 fractal]$ srun ./frac 3840 2160 502560 1440 401920 1080 30[1P280 720 20[1P640 400 10exit[K[13@script output.txtexit[K[2@scriptrun ./frac 4096 2160 603840 2160 502560 1440 403840 2160 504096 2160 60
+Fractal v1.6 [CUDA]
+Computing 60 frames of 4096 by 2160 fractal
+CUDA compute time: 0.2684 s
+]0;murphyme@:~/fractal[murphyme@r2v02 fractal]$ exit
+exit
+
+Script done on Thu Dec  5 18:43:22 2024

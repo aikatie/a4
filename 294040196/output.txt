@@ -1,0 +1,58 @@
+Sophia Romero and Marc Madlangbayan
+Script started on Mon 02 Dec 2024 07:54:01 PM EST
+]0;siromero@login01.darwin:~/Fractal [?1034h[(ea-cisc372-schiller:siromero)@login01.darwin Fractal]$ salloc --ntasks=1 - 
+-cpus-per-task=1 --gpus=1 --partition=gpu-v100
+salloc: Granted job allocation 5360372
+salloc: Waiting for resource configuration
+salloc: Nodes r2v00 are ready for job
+]0;siromero@:~/Fractal [?1034h[siromero@r2v00 Fractal]$ srun ./fractu  al_cuda 3 320 200 10
+slurmstepd: error: execve(): /home/3911/Fractal/./fracal_cuda: No such file or directory
+srun: error: r2v00: task 0: Exited with exit code 2
+]0;siromero@:~/Fractal [siromero@r2v00 Fractal]$ ./fractal_cuda 320 200 10
+Fractal v1.6 [CUDA]
+Computing 10 frames of 320 by 200 fractal
+CUDA compute time: 0.0004 s
+]0;siromero@:~/Fractal [siromero@r2v00 Fractal]$ ./fractal_cuda 320 200 10          640m40    0 400 10
+Fractal v1.6 [CUDA]
+Computing 10 frames of 640 by 400 fractal
+CUDA compute time: 0.0013 s
+]0;siromero@:~/Fractal [siromero@r2v00 Fractal]$ ./fractal_cuda 640 400 10 10  30
+Fractal v1.6 [CUDA]
+Computing 30 frames of 640 by 400 fractal
+CUDA compute time: 0.0037 s
+]0;siromero@:~/Fractal [siromero@r2v00 Fractal]$ ./fractal_cuda 640 400 30  60
+Fractal v1.6 [CUDA]
+Computing 60 frames of 640 by 400 fractal
+CUDA compute time: 0.0071 s
+]0;siromero@:~/Fractal [siromero@r2v00 Fractal]$ ./fractal_cuda 640 400 604[1P[1P[1@10[1@0[1P0[1@2[1@4 400[1P[1P[1P[1@7[1@6[1@8 60[1P030
+Fractal v1.6 [CUDA]
+Computing 30 frames of 1024 by 768 fractal
+CUDA compute time: 0.0109 s
+]0;siromero@:~/Fractal [siromero@r2v00 Fractal]$ ./fractal_cuda 1024 768 303[1P060
+Fractal v1.6 [CUDA]
+Computing 60 frames of 1024 by 768 fractal
+CUDA compute time: 0.0204 s
+]0;siromero@:~/Fractal [siromero@r2v00 Fractal]$ ./fractal_cuda 1024 768 60[1P[1P[1P[1P[1@2[1@0[1@4[1@8 768[1P[1P[1P[1@1[1@0[1@9[1@0 [1P[1P[1P[1@8[1@0[1@ 6[1P030
+Fractal v1.6 [CUDA]
+Computing 30 frames of 2048 by 1080 fractal
+CUDA compute time: 0.0288 s
+]0;siromero@:~/Fractal [siromero@r2v00 Fractal]$ ./fractal_cuda 2048 1080 300 3[1P060
+Fractal v1.6 [CUDA]
+Computing 60 frames of 2048 by 1080 fractal
+CUDA compute time: 0.0569 s
+]0;siromero@:~/Fractal [siromero@r2v00 Fractal]$ ./fractal_cuda 2048 1080 608[1P[1P[1P[1P[1@4[1@0[1@9[1@6 1080[1P[1P[1P[1P[1@2[1@1[1@6[1@0 60  30
+Fractal v1.6 [CUDA]
+Computing 30 frames of 4096 by 2160 fractal
+CUDA compute time: 0.1067 s
+]0;siromero@:~/Fractal [siromero@r2v00 Fractal]$ ./fractal_cuda 4096 2160 30[1P060
+Fractal v1.6 [CUDA]
+Computing 60 frames of 4096 by 2160 fractal
+CUDA compute time: 0.2030 s
+]0;siromero@:~/Fractal [siromero@r2v00 Fractal]$ exit
+logout
+salloc: Relinquishing job allocation 5360372
+salloc: Job allocation 5360372 has been revoked.
+]0;siromero@login01.darwin:~/Fractal [(ea-cisc372-schiller:siromero)@login01.darwin Fractal]$ exit
+exit
+
+Script done on Mon 02 Dec 2024 07:57:52 PM EST

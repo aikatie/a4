@@ -1,0 +1,104 @@
+Script started on Tue Dec  3 15:15:21 2024
+]0;zahratm@:~/fractal[?1034h[zahratm@r2v01 fractal]$   nvcc -O3 fractal.cu -o fractal_cudaF
+sh: nvcc: command not found
+]0;zahratm@:~/fractal[zahratm@r2v01 fractal]$ vpkg_require cuda
+Adding package `cuda/11.3.1-465.19.01` to your environment
+]0;zahratm@:~/fractal[zahratm@r2v01 fractal]$ vpkg_require cudanvcc -O3 fractal.cu -o fractal_cudaF
+]0;zahratm@:~/fractal[zahratm@r2v01 fractal]$ srun ./fractal_cuda 320 200 10[1@F
+Fractal v1.6 [Parallel]
+Computing 10 frames of 320 by 200 fractal
+Parallel compute time: 0.000211 s
+]0;zahratm@:~/fractal[zahratm@r2v01 fractal]$ ls
+core.59390   fractal.h	      fractal1009.bmp  fractal4009.bmp	fractal4019.bmp  fractal4029.bmp  fractal4039.bmp  fractal4049.bmp  fractal4059.bmp
+core.59451   fractal1000.bmp  fractal4000.bmp  fractal4010.bmp	fractal4020.bmp  fractal4030.bmp  fractal4040.bmp  fractal4050.bmp  fractal_cuda
+core.66334   fractal1001.bmp  fractal4001.bmp  fractal4011.bmp	fractal4021.bmp  fractal4031.bmp  fractal4041.bmp  fractal4051.bmp  fractal_cudaF
+core.66532   fractal1002.bmp  fractal4002.bmp  fractal4012.bmp	fractal4022.bmp  fractal4032.bmp  fractal4042.bmp  fractal4052.bmp  fractal_float
+core.67934   fractal1003.bmp  fractal4003.bmp  fractal4013.bmp	fractal4023.bmp  fractal4033.bmp  fractal4043.bmp  fractal4053.bmp  output.txt
+core.983     fractal1004.bmp  fractal4004.bmp  fractal4014.bmp	fractal4024.bmp  fractal4034.bmp  fractal4044.bmp  fractal4054.bmp  timer.h
+draft	     fractal1005.bmp  fractal4005.bmp  fractal4015.bmp	fractal4025.bmp  fractal4035.bmp  fractal4045.bmp  fractal4055.bmp
+fractal      fractal1006.bmp  fractal4006.bmp  fractal4016.bmp	fractal4026.bmp  fractal4036.bmp  fractal4046.bmp  fractal4056.bmp
+fractal.cu   fractal1007.bmp  fractal4007.bmp  fractal4017.bmp	fractal4027.bmp  fractal4037.bmp  fractal4047.bmp  fractal4057.bmp
+fractal.gif  fractal1008.bmp  fractal4008.bmp  fractal4018.bmp	fractal4028.bmp  fractal4038.bmp  fractal4048.bmp  fractal4058.bmp
+]0;zahratm@:~/fractal[zahratm@r2v01 fractal]$ mv    rv    m rm -v fractal*.bmp [1@4
+removed 'fractal4000.bmp'
+removed 'fractal4001.bmp'
+removed 'fractal4002.bmp'
+removed 'fractal4003.bmp'
+removed 'fractal4004.bmp'
+removed 'fractal4005.bmp'
+removed 'fractal4006.bmp'
+removed 'fractal4007.bmp'
+removed 'fractal4008.bmp'
+removed 'fractal4009.bmp'
+removed 'fractal4010.bmp'
+removed 'fractal4011.bmp'
+removed 'fractal4012.bmp'
+removed 'fractal4013.bmp'
+removed 'fractal4014.bmp'
+removed 'fractal4015.bmp'
+removed 'fractal4016.bmp'
+removed 'fractal4017.bmp'
+removed 'fractal4018.bmp'
+removed 'fractal4019.bmp'
+removed 'fractal4020.bmp'
+removed 'fractal4021.bmp'
+removed 'fractal4022.bmp'
+removed 'fractal4023.bmp'
+removed 'fractal4024.bmp'
+removed 'fractal4025.bmp'
+removed 'fractal4026.bmp'
+removed 'fractal4027.bmp'
+removed 'fractal4028.bmp'
+removed 'fractal4029.bmp'
+removed 'fractal4030.bmp'
+removed 'fractal4031.bmp'
+removed 'fractal4032.bmp'
+removed 'fractal4033.bmp'
+removed 'fractal4034.bmp'
+removed 'fractal4035.bmp'
+removed 'fractal4036.bmp'
+removed 'fractal4037.bmp'
+removed 'fractal4038.bmp'
+removed 'fractal4039.bmp'
+removed 'fractal4040.bmp'
+removed 'fractal4041.bmp'
+removed 'fractal4042.bmp'
+removed 'fractal4043.bmp'
+removed 'fractal4044.bmp'
+removed 'fractal4045.bmp'
+removed 'fractal4046.bmp'
+removed 'fractal4047.bmp'
+removed 'fractal4048.bmp'
+removed 'fractal4049.bmp'
+removed 'fractal4050.bmp'
+removed 'fractal4051.bmp'
+removed 'fractal4052.bmp'
+removed 'fractal4053.bmp'
+removed 'fractal4054.bmp'
+removed 'fractal4055.bmp'
+removed 'fractal4056.bmp'
+removed 'fractal4057.bmp'
+removed 'fractal4058.bmp'
+removed 'fractal4059.bmp'
+]0;zahratm@:~/fractal[zahratm@r2v01 fractal]$ ls
+core.59390  core.66532	draft	    fractal.gif      fractal1001.bmp  fractal1004.bmp  fractal1007.bmp	fractal_cuda   output.txt
+core.59451  core.67934	fractal     fractal.h	     fractal1002.bmp  fractal1005.bmp  fractal1008.bmp	fractal_cudaF  timer.h
+core.66334  core.983	fractal.cu  fractal1000.bmp  fractal1003.bmp  fractal1006.bmp  fractal1009.bmp	fractal_float
+]0;zahratm@:~/fractal[zahratm@r2v01 fractal]$ lsrm -v fractal4*.bmp ls[Ksrun ./fractal_cudaF 320 200 10  60
+Fractal v1.6 [Parallel]
+Computing 60 frames of 320 by 200 fractal
+Parallel compute time: 0.000912 s
+]0;zahratm@:~/fractal[zahratm@r2v01 fractal]$ srun ./fractal_cudaF 320 200 60[1P[1P[1P[1P[1P[1P[1P[1@4[1@0[1@9[1@6 [1@ [1@2[1@1[1@6[1@0 60[1P010
+Fractal v1.6 [Parallel]
+Computing 10 frames of 4096 by 2160 fractal
+Parallel compute time: 0.016902 s
+]0;zahratm@:~/fractal[zahratm@r2v01 fractal]$ srun ./fractal_cudaF 4096 2160 10  20
+Fractal v1.6 [Parallel]
+Computing 20 frames of 4096 by 2160 fractal
+Parallel compute time: 0.034000 s
+]0;zahratm@:~/fractal[zahratm@r2v01 fractal]$ In this sec   command that i am running i have also changed the f doubles to float for bonus part
+sh: In: command not found
+]0;zahratm@:~/fractal[zahratm@r2v01 fractal]$ exit 
+exit
+
+Script done on Tue Dec  3 15:19:53 2024
